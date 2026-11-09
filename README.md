@@ -19,6 +19,7 @@ PADEL RUSH ist die Idee für einen modernen Padel- und Freizeitclub in Berlin: C
 | Rechtliche Anforderungen und Risiken | [Recht und Risiken](docs/09-recht-und-risiken.md) |
 | Roadmap, Aufgaben und Entscheidungen | [Arbeitsplan](docs/10-roadmap.md) |
 | Quellen, Belegqualität, Nachprüfungen | [Quellen & Prüfstatus](docs/11-quellen-und-pruefstatus.md) |
+| Website, Buchungsdemo und Verwaltungs-Demo | [Website-Demo](docs/12-website-und-demo.md) |
 | Bisher im Chat bereitgestellte Bilder | [Asset-Verzeichnis](assets/README.md) |
 
 ## Sofort wichtigste offene Punkte
