@@ -40,7 +40,7 @@
 ## 3. Nachweise zu BVG-Planungen — zeitliche Reihenfolge
 
 - **31.01.2023:** In einer schriftlichen Anfrage an das Abgeordnetenhaus antwortet die BVG, dass sie weiterhin die Nutzung als Straßenbahndepot favorisiert und Varianten prüft. [S5]
-- **16.01.2024:** Pankower Standortpass: Betriebshof-Flächenausweisung und **keine Potenzialfläche**; Gewerbe-/verkehrsbezogene FNP-Darstellung. [S1]
+- **16.01.2024:** Pankower Standortpass: Betriebshof-Flächenausweisung und **keine Potenzialfläche**; Gewerbe-/verkehrsbezogene FNP-Darstellung. Der Standortpass empfiehlt, die Fläche **auch bei einer eventuellen Aufgabe des BVG-Betriebs gewerblich zu sichern**. Das wäre allenfalls eine langfristige planungsbezogene Perspektive, **keine Zusage für Sportnutzung**. [S1]
 - **23.04.2025:** Bezirksstadtrat berichtet nach Besichtigung: BVG prüft Reaktivierung. [S2]
 - **05.06.2026 bis 18.09.2026:** Ausschreibung und Vergabeinformation zu Planungsleistungen **Neubau Gleichrichterwerk** am Betriebshof Niederschönhausen, Kennung INF1-0288-2026. [S3]
 - **05.08.2026:** Lokalbericht aus dem M1-Planungskontext nennt eine vorgesehene Wiederinbetriebnahme. **Sekundärquelle**, Details/Termin und endgültige Planung sind offen. [S7]
