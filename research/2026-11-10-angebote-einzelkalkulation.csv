@@ -1,0 +1,9 @@
+produkt;teilnehmer;gebuchte_courtstunden;preis_brutto_eur;umsatz_netto_modell_eur;direkte_kosten_eur;deckungsbeitrag_eur;vergleich_normale_vermietung_eur;zusatzbeitrag_eur;zeitfenster;hinweis
+Court Nebenzeit;bis zu 4;1,00;28,00;23,53;1,06;22,47;;;Nebenzeit;1 Court × 60 Min., Mo–Fr 08–17
+Court Hauptzeit;bis zu 4;1,00;40,00;33,61;1,30;32,31;;;Nebenzeit;1 Court × 60 Min., Mo–Fr 17–22 + Sa/So
+Rush Starter;4;1,50;116,00;97,48;52,07;45,41;33,70;11,70;Nebenzeit;4 × 29 €, 1 Court × 90 Min., Trainer 45 €, Material 4 €
+Rush Academy;2;1,00;90,00;75,63;39,30;36,33;22,47;13,86;Nebenzeit;2 × 45 €, 1 Court × 60 Min., Trainer 35 €, Material 2 €
+Rush Social;8;3,00;144,00;121,01;25,38;95,63;67,41;28,22;Nebenzeit;8 × 18 €, 2 Courts × 90 Min., Betreuung 15 €, Bälle 6 €
+Rush League;16;42,00;2064,00;1734,45;282,28;1452,17;1357,16;95,01;Hauptzeit;8 Teams/16 Spieler, 28 Matches × 90 Min. = 42 Courtstunden über 7 Wochen
+Rush Tournament;32;16,00;1120,00;941,18;310,40;630,78;517,02;113,76;Hauptzeit;32 × 35 €, 4 Courts × 4 h, Organisation 160 €, Preise 80 €, Material 40 €
+Rush Business;8–12;6,00;599,00;503,36;209,98;293,38;134,82;158,56;Nebenzeit;8–12 Personen, 2 Courts × 3 h, Trainer 90 €, Gastgeber 45 €, Verpflegung 48 €, Material 12 €
