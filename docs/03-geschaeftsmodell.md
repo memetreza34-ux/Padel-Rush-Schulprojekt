@@ -42,6 +42,14 @@ PADEL RUSH BERLIN vermietet Padel-Spielzeit und ergänzt die Courts durch Traini
 - Transparentes Preismodell, attraktive Nebenzeiten, eine erkennbare Sportmarke.
 - **Kein unbelegter USP:** Andere Padelclubs können diese Leistungen ebenfalls anbieten; echte Differenzierung muss durch Standort, Ausführung und lokale Marktdaten belegt werden.
 
+## Festgelegtes Hallenmodell für die Schulpräsentation (10.11.2026)
+
+- **Vier Indoor-Doppelcourts**, **null Outdoor-Courts zur Eröffnung**.
+- **Ca. 1.600 m² hypothetische Innenfläche**, davon **800 m² reine Court-Spielfläche**.
+- Empfang, Lounge mit kleiner Snackbar, Verleih, Duschen, WCs, Umkleiden, Lager, Technik und Zugangsflächen sind eingeplant.
+- Der Außenplatz auf dem vorhandenen Rendering bleibt **eine mögliche Zukunftserweiterung** und erscheint in der Basisrechnung nicht.
+- Zahlen und Flächen im [ausführlichen Hallenkonzept](13-hallenkonzept.md).
+
 ## Betriebshypothese
 - Rechenmodell: **4 Indoor-Courts**, **14 Stunden/Tag**, **30 Tage/Monat** = 1.680 verfügbare Courtstunden.
 - Aufteilung der Kernzeiten und tatsächliche Öffnungszeiten sind noch offen.
