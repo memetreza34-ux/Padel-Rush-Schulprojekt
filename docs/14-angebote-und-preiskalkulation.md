@@ -146,7 +146,7 @@
 **Interpretation:** Bei gleicher 45-%-Gesamtauslastung können zwei Euro weniger pro regulärer Courtstunde die modellierte Ergebnissituation deutlich schwächen. Schon aus diesem Grund braucht die spätere Finanzplanung eine belastbare Unter- und Obergrenze und eine eigene Liquiditäts-/GuV-Trennung.
 
 ### Caveat zur 20.500-€-Basis
-Die Höhe des Fixkosten-/Kapitaldienstblocks wurde in der bisherigen Schulplanung **nicht objektbezogen belegt**. Die Modellperiode unterstellt vereinfachend eine konstante monatliche Größe, keine saisonale Heizlast und keine eigenen vier Gründergehälter über das vorhandene Personalbudget hinaus. Ein **vollständiger Finanzplan** mit Investitionen, Abschreibungen, Finanzierung, Tilgungen, Umsatzsteuer, Liquidität und Anlaufphase ist **der nächste Arbeitsschritt**.
+Die Höhe des Fixkosten-/Kapitaldienstblocks wurde in der bisherigen Schulplanung **nicht objektbezogen belegt**. Die Modellperiode unterstellt vereinfachend eine konstante monatliche Größe, keine saisonale Heizlast und keine eigenen vier Gründergehälter über das vorhandene Personalbudget hinaus. Der **aktuelle Finanzplan für die Schulpräsentation** mit 340.000 € Modellbedarf, Kreditannahmen, 12-Monats-Anlauf, Szenarien und bedingtem Break-even ist inzwischen in [Finanzanlage 15](15-finanzanlage-fuer-praesentation.md) dokumentiert. **Er ist kein realer genehmigter Businessplan**, weil echte Umbaukosten, Steuern, Gründergehälter und alle Ausgaben nicht verifiziert sind.
 
 ## 8. Rollen, Regeln und Qualitätskontrolle
 - **Marketing (Person 2):** genau diese Preise und Inklusivleistungen auf Flyer/Website übertragen; keine frei erfundenen Aktionen.
