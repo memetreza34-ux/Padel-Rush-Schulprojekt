@@ -36,6 +36,12 @@ Die Finanzierung ist **nicht zugesagt**. Zinssatz, Laufzeit, Sicherheiten, Tilgu
 
 **Wichtig:** Der Kapitaldienst beinhaltet unter Umständen **Tilgung**, die keine Betriebsausgabe der GuV ist. Daher wird im Modell ein vereinfachter **Liquiditätsüberschuss**, nicht handelsrechtlicher Gewinn, berechnet. Steuer- und Abschreibungsmodell separat aufbauen.
 
+## Abgleich mit Hallenkonzept (10.11.2026)
+
+Für die Schulgründung gilt nun das Basismodell **4 Indoor-Courts / 0 Outdoor-Courts / ca. 1.600 m² angenommene Innenfläche**. Die genauen Flächen für Empfang, Lounge und Nebenräume sind im [Raumprogramm](13-hallenkonzept.md) berechnet. Die historischen BVG-Gebäudemaße sind damit **nicht bestätigt**.
+
+Die vorhandenen Beträge (320.000 € Startkapital, 8.500 € Beispiel-Miete, 20.500 € Monatssumme) bleiben vorerst **hypothetische Rechenwerte**, keine objektbezogenen Angebote. Das Bild mit Außen-Court stellt nur eine spätere Ausbaustufe dar. Courtstunden bei Training, Social Night, Liga und freier Buchung **nicht doppelt zählen**.
+
 ## Rechenweg Courts
 - 4 Courts × 14 Öffnungsstunden/Tag × 30 Tage = **1.680 mögliche Courtstunden/Monat**.
 - Durchschnittlicher **Bruttopreis 36 €/Courtstunde**.
