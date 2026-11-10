@@ -19,13 +19,17 @@
 | Stadt Berlin | BESCHLOSSEN | Bezirk Pankow als Fokus |
 | Betriebshof Niederschönhausen | WUNSCHSTANDORT | Keine Mietzusage/bauliche Prüfung |
 | Vierköpfiges Team | BESCHLOSSEN | Rollen vorgeschlagen, Personen noch zuordnen |
-| Vier Indoor-Courts | MODELLANNAHME | Konzeptbild zeigt auch einen Außen-Court |
+| 4 Indoor-Courts, 0 Outdoor zum Start | **SCHULMODELL FESTGELEGT (10.11.2026)** | [Hallenkonzept](13-hallenkonzept.md); Außenplatz nur als Zukunftsvision |
 | Lounge, Training, Turniere, Events | KONZEPT | Noch keine Verträge oder Anbieter |
 | Courtpreise 28 €/h Nebenzeit, 40 €/h Hauptzeit | PLANPREISE | Nicht durch Kundenvalidierung bestätigt |
 | Durchschnitt 36 €/h brutto | FINANZANNAHME | Keine erzielte Preisrealisierung |
 | Investitionsbudget 320.000 € | FINANZANNAHME | Nicht gebäudespezifisch, keine Angebote |
 | Name/Logo rechtlich frei | OFFEN | Recherche und Rechteklärung nötig |
 | Tatsächlich verfügbare Fläche / Nutzungsänderung | OFFEN | Höchste Priorität |
+
+## Stand der fiktiven Gründung (10.11.2026)
+
+**Kein echter Gründungs- oder Antragsauftrag.** Der BVG-Betriebshof bleibt Wunsch- und Konzeptstandort für die Präsentation. Das Hallenmodell sieht **vier Indoor-Doppelcourts, keine Outdoor-Courts zum Start und ca. 1.600 m² angenommene Innenfläche** vor. [Vollständiges Raumprogramm](13-hallenkonzept.md).
 
 ## Konzept-Versprechen an Kunden
 „Einfacher Zugang zu Padel, gute Plätze, unkomplizierte Buchung, passende Mitspieler, regelmäßige Events und eine sportliche Community.“
