@@ -13,6 +13,7 @@ PADEL RUSH ist die Idee für einen modernen Padel- und Freizeitclub in Berlin: C
 | **Standortrecherche vom 10.11.2026 mit Primärquellen** | [BVG-Prüfung + alternative Hallen](research/2026-11-10-standortpruefung-niederschoenhausen.md) |
 | Vorlagen für sachliche Standortanfragen | [BVG/Makler](templates/standort-anfrage.md) |
 | Checkliste zur Standortfreigabe | [Go/No-Go](templates/standort-pruefcheckliste.md) |
+| **Hallenkonzept – 4 Indoor-Courts und 1.600 m² Modellfläche** | **[Hallenkonzept](docs/13-hallenkonzept.md)** |
 | Geschäftsmodell, Zielgruppen und Angebote | [Geschäftsmodell](docs/03-geschaeftsmodell.md) |
 | Markt, Nachfrage und Konkurrenz | [Marktanalyse](docs/04-markt-und-konkurrenz.md) |
 | Investitions- und Finanzmodell | [Finanzen](docs/05-finanzen.md) |
@@ -25,10 +26,14 @@ PADEL RUSH ist die Idee für einen modernen Padel- und Freizeitclub in Berlin: C
 | Website, Buchungsdemo und Verwaltungs-Demo | [Website-Demo](docs/12-website-und-demo.md) |
 | Bisher im Chat bereitgestellte Bilder | [Asset-Verzeichnis](assets/README.md) |
 
+## Arbeitsumfang: ausschließlich Schulprojekt
+
+Die Gründung und die Umnutzung des Betriebshofs sind **hypothetisch**. Wir erstellen einen Businessplan und Präsentationsmaterial, ohne Eigentümer, Behörden oder Vermieter zu kontaktieren. Externe Risiken werden erwähnt, aber nicht praktisch bearbeitet.
+
 ## Sofort wichtigste offene Punkte
 
 1. **Standort-Alarm ROT:** Die BVG prüft/plant die Rückkehr der Straßenbahnnutzung; 2026 wurde die Planung eines Gleichrichterwerks veröffentlicht. Für das denkmalgeschützte Depot **keine Sportflächenfreigabe und kein Mietangebot**. Als Alternative ist eine 1.400-m²-Kalthalle in Niederschönhausen mit Inseratskosten dokumentiert; auch deren Sportnutzung ist **nicht geklärt**. Details: [Standortprüfung](research/2026-11-10-standortpruefung-niederschoenhausen.md).
-2. **Court-Konzept:** Die bisherigen vier **Indoor**-Courts stehen im Widerspruch zur Konzeptvisualisierung mit erkennbarem **Outdoor**-Court. Erst Flächenprüfung, dann endgültige Ausstattung.
+2. **Hallenkonzept für die Schulplanung festgelegt:** **4 Indoor-Courts, 0 Outdoor zum Start, ca. 1.600 m² angenommene Gesamtfläche**. Outdoor auf der Visualisierung = mögliche spätere Erweiterung. [Detailplan](docs/13-hallenkonzept.md).
 3. **Markt:** Aktuelle Berliner Wettbewerber, lokale Nachfrage und realistische Preise mit Primärquellen belegen.
 4. **Finanzen:** Alle bisherigen Beträge sind **Schulbeispiele**, keine Angebote. Standortbezogenes Investitions-, Betriebskosten- und Liquiditätsmodell erstellen.
 5. **Branding:** Logo und Visualisierungen liegen im Gespräch vor; Original-Bilddateien sind noch **nicht in diesem Repository**. Vor öffentlicher Nutzung Bildrechte und Namens-/Markenkonflikte prüfen.
