@@ -171,5 +171,6 @@ Die Höhe des Fixkosten-/Kapitaldienstblocks wurde in der bisherigen Schulplanun
 - **Anlage / Platzangebot:** [13-hallenkonzept.md](13-hallenkonzept.md)
 - **Bisheriges Finanzmodell:** [05-finanzen.md](05-finanzen.md)
 - **CSV-Kalkulation zum Nachrechnen:** [Preise-und-Kosten-Datei](../research/2026-11-10-angebote-einzelkalkulation.csv)
+- **Reproduzierbarer Rechnungscheck:** [Python-Prüfskript](../scripts/validate_financial_model.py) — ausführen mit `python3 scripts/validate_financial_model.py`, Standardbibliothek genügt.
 
 **Status:** Als Angebotspaket des **fiktiven Schul-Businessplans** fertig kalkuliert. **Nicht** als sichere Profitabilitätsprognose oder buchhalterisch finaler Jahresabschluss zu verstehen.
