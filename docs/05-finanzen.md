@@ -1,116 +1,97 @@
-# 05 — Finanzplanung (Stand 10.11.2026)
+# 05 — Finanzplanung PADEL RUSH BERLIN: zusammengefasster Präsentationsstand
 
-> **Fiktiver Schul-Businessplan, kein genehmigtes oder tatsächlich finanziertes Unternehmen.**  
-> **Maßgebliches Produkt- und Courtzeitmodell:** [14 — Angebote, Preise, Deckungsbeiträge](14-angebote-und-preiskalkulation.md).  
-> Frühere vereinfachte Ergebnisse mit pauschal „+1.000 € Zusatzdeckungsbeitrag“ sind **überholt** und dürfen **nicht zusätzlich zu den Events** gerechnet werden.
+> **Stand 10.11.2026 · Fiktive Schulgründung, keine Bau- oder Bankzusage.**  
+> **Vollständige geprüfte Finanzanlage:** **[15 — Finanzierung, 12-Monats-Anlauf, Break-even und Szenarien](15-finanzanlage-fuer-praesentation.md)**.  
+> **Alle Produkt-/Eventkosten:** [14 — Angebotskalkulation](14-angebote-und-preiskalkulation.md).  
+> **Wichtig:** Das ältere 320.000-€-/30.000-€-Reserve-Modell wurde nach der Startjahresrechnung **auf 340.000 €/50.000 € Reserve** angepasst. Frühere pauschale +1.000-€-Eventbeiträge und 38,4-%-Break-even-Annahme gelten **nicht** für das jetzt integrierte Modell.
 
-## 1. Hallen- und Basisparameter
+## 1. Investition und Finanzierung – aktuelles Schulmodell
 
-| Parameter | Schulannahme |
+| Mittelverwendung (alles unverbindliche Annahmen) | Euro |
 |---|---:|
-| Indoor-Doppelcourts | 4 |
-| Geplante Innenfläche | ca. 1.600 m², **nicht vermessen** |
-| Tägliche Öffnungsdauer | 14 Stunden (08–22 Uhr) |
-| Referenzmonat | 30 Öffnungstage, vier organisierte Eventwochen |
-| Gesamte buchbare Courtstunden | **4 × 14 × 30 = 1.680** |
-| Beispielauslastung | **45 % gesamt** = **756** belegte Courtstunden |
-| Davon reguläre Courtstunden | **640** |
-| Davon Events/Trainings/Liga | **116** |
-| Nebenzeit / Hauptzeit | 28 € / 40 € brutto pro Courtstunde |
-| Durchschnitt regulärer Buchungen in integrierter Beispielrechnung | **34 € brutto** (=50 % zum 28-€-Tarif, 50 % zum 40-€-Tarif) |
-| Modell-USt auf Verkäufe | vereinfacht **19 %**; tatsächliche Einordnung je Leistung gesondert |
-| Zahlungskosten, Verschleiß | hypothetisch 2 % Bruttoumsatz + 0,50 €/belegter Courtstunde |
+| Vier Indoor-Padel-Courts | 160.000 |
+| Umbau, Sanitär, Sicherheit | 70.000 |
+| Empfang und Lounge | 20.000 |
+| Planung/Projektkosten | 15.000 |
+| Ausstattung, Technik, Licht | 15.000 |
+| Eröffnungsmarketing | 10.000 |
+| **Liquiditätsreserve für Startverluste** | **50.000** |
+| **Gesamter Modell-Kapitalbedarf** | **340.000** |
 
-**Wichtig:** Events und reguläre Courtbuchungen dürfen nie dieselbe Courtzeit zugleich als zwei Umsätze buchen. Die Eventveranstaltung hat eigene Einnahmen pro Person/Gruppe und verdrängt normale Buchungszeit.
-
-## 2. Modell-Investitionsbedarf (bereits früher festgelegte, noch nicht validierte Zahlen)
-
-| Position | Schätzung |
+| Herkunft | Euro |
 |---|---:|
-| Vier Courts | 160.000 € |
-| Hallenumbau/Sanitär/Sicherheit | 70.000 € |
-| Lounge/Empfang | 20.000 € |
-| Planung/abstrakte Genehmigungskosten | 15.000 € |
-| Ausstattung/Technik | 15.000 € |
-| Eröffnungsmarketing | 10.000 € |
-| Liquiditätsreserve | 30.000 € |
-| **SUMME** | **320.000 €** |
+| Vier Gründer, jeweils 25.000 € **hypothetisches** Eigenkapital | **100.000** |
+| Annuitätendarlehen (nur Rechenannahme, keine Bankzusage) | **240.000** |
+| **Gesamt** | **340.000** |
 
-**Finanzierungsskizze, nicht zugesagt:** 4 Gründer × 20.000 € Eigenkapital = **80.000 €**; externer Kredit als Rechenannahme **240.000 €**. Zinsen, Tilgung, Gebühren, Sicherheiten, Kreditlaufzeit, Abschreibungen, Steuern und Umsatzsteuer-Vorfinanzierung sind **noch nicht ausgerechnet**. Diese Tabelle ist ausdrücklich **kein objektbezogenes BVG-Umbauangebot**.
+**Kredit-Rechenannahme:** 7 % Jahreszins, 96 Monate Laufzeit, monatliche Annuität ca. **3.272,09 €**. Die bisherige vereinfachte Monatsplanung enthält **3.500 € als konservativen Kapitaldienst-Zahlungsansatz** (etwa 227,91 € über der modellierten Annuität). Kein tatsächlicher Darlehensvertrag.
 
-## 3. Fixe Monatliche Auszahlungsschätzung (vorläufig)
+**Grenze:** Die einmaligen Kosten sind **keine Angebote für die denkmalgeschützte BVG-Halle**. Baukosten, Kaution, Vorsteuerbedarf und mögliche Schadstoffe/Denkmalschutzrisiken können die erforderlichen Mittel stark ändern.
 
-| Position | Schulannahme |
+## 2. Kapazität und Preise
+
+- **4 Indoor-Courts × 14 Öffnungsstunden × 30 Tage = 1.680 Courtstunden** je Rechenmonat.
+- Brutto-Tarife **28 €/Courtstunde Nebenzeit** und **40 €/Courtstunde Hauptzeit**.
+- **34 € Brutto-Ø** pro **regulärer Buchungsstunde** unter der Annahme, dass die Hälfte der regulären Stunden zum höheren Tarif verkauft wird.
+- Basismonat **45 % Gesamtauslastung = 756 Stunden**, zusammengesetzt aus **640 regulären Buchungsstunden und 116 Event-Courtstunden**. **Keine Doppelzählung.**
+- **Eventpreise** sind bereits inklusive Courtzeit; sie werden nicht zusätzlich zu normaler Courtmiete gerechnet.
+
+## 3. Integrierte Monatsrechnung (45-%-Basismonat)
+
+| Stufe | Euro (Modellwert) |
 |---|---:|
-| Hallenmiete | 8.500 € |
-| Allgemeines Personal | 4.500 € |
-| Grundenergie, Heizung, Wasser | 2.000 € |
-| Allgemeine Reinigung, Versicherung, Grundwartung | 1.200 € |
-| Werbung und Software | 800 € |
-| **Kapitaldienst inklusive möglicher Tilgung** | **3.500 €** |
-| **Summe monatlicher Auszahlungen** | **20.500 €** |
+| Bruttoumsatz aus Courts + Events | **29.975,43** |
+| Netto-Umsatz (vereinfachend 19 % USt) | **25.189,44** |
+| Direkte Kosten Trainer/Events/Gebühren/Verschleiß | **−3.315,22** |
+| Beitrag nach direkten Kosten | **21.874,21** |
+| Operative Fixkosten: Miete, Grundpersonal, Energie, Wartung, Werbung/Software | **−17.000,00** |
+| Konservativ budgetierter Kapitaldienst (inkl. Tilgung) | **−3.500,00** |
+| **Vereinfachte Modell-Budgetdeckung** | **+1.374,21** |
 
-**Abgrenzung:** Eventtrainer/-host, kleine Verbrauchsmaterialien, Wareneinsatz und modellierte Buchungsgebühren sind **nicht** im Personal- bzw. Sachkostenblock der Tabelle enthalten und werden als **direkte Produktkosten** extra berücksichtigt. Die separate variable Court-Verschleißreserve (€0,50 je belegter Stunde) ist nicht dieselbe allgemeine Gebäudewartung wie im Fixblock.
+**Das ist kein tatsächlicher Gewinn.** Steuerzahlungen, Abschreibungen, tatsächliche Zahlungszeitpunkte, nicht modellierte Zusatzkosten und **Gehälter für die vier Gründer** sind noch nicht vollständig enthalten.
 
-**Rechtliche/steuerliche Präzision:** Zins ist Finanzierungskostenaufwand, Tilgung ist Auszahlung und keine GuV-Aufwendung. Der nachstehende Betrag ist eine **vereinfachte Modellüberschussrechnung nach Auszahlungen**; **nicht** handelsrechtlicher Gewinn oder ein validierter Cashflow.
+**Personalwarnung:** Bei 14 h Öffnungszeit an 30 Tagen entstehen **420 Öffnungsstunden/Monat**. Das veranschlagte Grundpersonalbudget von **4.500 €** setzt erhebliche eigene Mitarbeit der vier Gründer **ohne zusätzliches Gründergehalt** voraus. Eine professionelle Vollbesetzung würde die Kosten erhöhen.
 
-## 4. Das neue integrierte 45-%-Beispiel: ohne Doppelbelegung
+## 4. Szenarien und Rentabilität
 
-| Teil | Courtstunden im Modellmonat | Umsatz brutto / Rechengröße |
+Die Szenarien ändern **Auslastung, regulären Durchschnittspreis und Eventmenge**. Ausgenommen sind echte Nachfragedaten, denn diese liegen nicht vor.
+
+| Fall | Gesamt-Auslastung | Vereinfachtes Monatsergebnis nach Budget |
 |---|---:|---:|
-| Normale Courtbuchungen | **640** | **21.760,00 €** (640 × 34 €) |
-| Starterkurse (8 Termine) | **12** | **928,00 €** |
-| Academy (16 Termine) | **16** | **1.440,00 €** |
-| Social (8 Termine, je 2 Courts) | **24** | **1.152,00 €** |
-| League (4 von 7 Spielwochen, anteilige Einnahmen) | **24** | **1.179,43 €** |
-| Business (4 Termine) | **24** | **2.396,00 €** |
-| Tournament (ein Event) | **16** | **1.120,00 €** |
-| **GESAMT** | **756 belegte von 1.680** | **29.975,43 € Bruttoumsatz-Rechengröße** |
+| Schwach – weniger Events, Ø 32 €/h Court | **25 %** | **−9.222 €** |
+| Basis – definierter Eventplan, Ø 34 €/h Court | **45 %** | **+1.374 €** |
+| Stark – mehr Business-Events, Ø 36 €/h Court | **55 %** | **+7.540 €** |
 
-**Eventstunden zusammen = 116.**  
-**League-Hinweis:** 16 Spieler zahlen insgesamt 2.064 € brutto für eine gesamte **7-Wochen-Saison**. Für die Modellperiode werden **4/7 des Saisonpreises und der direkten Saisonkosten zugeordnet**. Der tatsächliche Geldzufluss könnte bereits zu Saisonbeginn stattfinden – deshalb ist die Zurechnung **kein echter Kassen-/Cashflow-Plan**.
+Unter genau dem **Basis-Eventmix mit 116 Eventstunden und voller Teilnehmerzahl** liegt die rechnerische Schwelle zur Deckung des budgetierten monatlichen Zahlungsblocks bei **ca. 42,0 % Gesamtauslastung**. Dies ist **keine allgemeine Branche-Break-even-Angabe**.
 
-| Stufe | Rechenbetrag |
-|---|---:|
-| Gesamtmodellumsatz **netto** (vereinfachte USt) | **25.189,44 €** |
-| Direkte Kosten für Courts, Coaches, Betreuung, Bälle, Preise, Zahlung | **−3.315,22 €** |
-| **Deckungsbeitrag vor Fixauszahlungen** | **21.874,21 €** |
-| Monatliche Fix-/Finanzierungsauszahlungen (Annahme) | **−20.500,00 €** |
-| **Vereinfachter Modellüberschuss** | **+1.374,21 €** |
+## 5. Startjahr: warum der größere Puffer nötig ist
 
-**Noch nicht enthalten:** Erlöse aus Getränken, Snacks, Schlägerverleih, Mitgliedschaften oder Sponsoren. **Kein** extra pauschaler 1.000-€-Bonus mehr. Nicht enthalten sind weitere eventuelle Gründervergütungen, Steuerzahlungen, besondere saisonale Heizungskosten, Anlaufverluste und tatsächliche Kreditkonditionen.
+Das zwölfmonatige Unterrichtsmodell simuliert einen Anstieg von **25 % Auslastung in Monat 1** bis **50 % in Monat 12**. Die Monatszahlen und Eventaktivität sind in der [Finanzanlage](15-finanzanlage-fuer-praesentation.md) transparent aufgelistet.
 
-## 5. Sensitivität bei sonst gleichen, unbewiesenen Annahmen
+- **Kumulierte erste zwölf Monate:** ca. **−28.932 €** nach budgetierten Modell-Auszahlungen – trotz späterer positiver Monate.
+- **Startreserve:** 50.000 €; rechnerisch niedrigster Stand in Monat 8 ca. **11.430 €**.
+- **Frühere Reserve von 30.000 € wäre im Modell zeitweise negativ** geworden (Tiefststand ca. −8.570 €).
+- **Kein Realitätsnachweis:** Echte Eröffnungskosten, USt-Zeitpunkte, Personal, Saisonalität und Umbaukosten können den Bedarf noch deutlich erhöhen.
 
-| Durchschnitt **nur regulärer** Courtbuchungen | Modellüberschuss nach angenommenen Auszahlungen |
-|---|---:|
-| 32 €/h brutto | **+324,18 €** |
-| **34 €/h brutto — Basis** | **+1.374,21 €** |
-| 36 €/h brutto | **+2.424,24 €** |
+## 6. GuV und Kapitaldienst nicht vermischen
 
-Alle Szenarien nehmen **45 % Gesamtbelegung und volle Eventteilnehmerzahlen** an. Niedrigere Eventteilnehmerzahlen, abgesagte Events, ungünstige Spitzenzeiten und nicht erfasste Kosten können die Beträge erheblich verschlechtern. 36 € durchschnittlich bei 28/40 € wäre ein **66,7-%-Hauptzeitmix** (nur reguläre Stunden); 34 € entspricht **50/50**; 32 € entspricht **33,3 % Hauptzeit**.
+- Die **3.272-€-Kreditannuität** setzt sich aus **Zins und Tilgung** zusammen.
+- **Zinsen** sind bei der vereinfachten GuV Aufwand, **Tilgung** ist **keine** GuV-Betriebsausgabe, sondern Rückzahlung der Schuld.
+- Abschreibungen auf Courts/Umbau senken ggf. das Ergebnis, verursachen im laufenden Monat aber **keine neue Zahlung**.
+- Die 1.374 € sind deshalb ausdrücklich **eine vereinfachte Budgetdeckung** und nicht der handels-/steuerrechtliche Jahresgewinn.
 
-## 6. Was noch für den wirklich vollständigen Finanzplan fehlt
+## 7. Für Folie 15–19 übernehmen
+- **15:** 340.000 € Kapitalbedarf inkl. 50.000 € Anlaufreserve.
+- **16:** 100.000 € Eigenkapital / 240.000 € Kredit, 7 %/8 Jahre als reines Beispiel, Annuität ca. 3.272 €/Monat.
+- **17:** 1.680 mögliche / 756 belegte Courtstunden, 640 normal + 116 Events; 29.975 € brutto Modellumsatz.
+- **18:** 25.189 € netto − 3.315 € direkt − 17.000 € fix − 3.500 € Kapitaldienstbudget = **+1.374 €**, **nicht sicherer Gewinn**.
+- **19:** 25/45/55-%-Szenarien und ca. **42 % bedingter Modell-Break-even**, 12-Monats-Anlaufverlust und Reserve.
 
-1. **Einmalige Bau-/Einrichtungskosten plausibilisieren** und Reserve & Kaution getrennt abbilden; historisches Gebäude verursacht potenziell höhere Kosten.
-2. **Kreditmodell** mit Zinsen, Tilgung, Laufzeit und Kapitaldienst ausrechnen, keine willkürliche 3.500-€-Rate.
-3. **Lohn- und Personalmodell** inklusive Schichten, Trainer/Hosts und vier Gründervergütungen prüfen.
-4. **Anlaufmonat und saisonale Szenarien**: Nachfrage und Strom-/Heizkosten schwanken, ganzjährige 45-%-Auslastung ist nicht bewiesen.
-5. **GuV und Cashflow getrennt**: Abschreibungen, Steuern, Zahlungsflüsse, Vorfinanzierungen, USt und Vereins-/Mitgliedschaftsbeiträge berücksichtigen.
-6. **Break-even mit tatsächlichen Event- und Courtkosten**, nicht eine frühere pauschale Schätzung von 38,4 % weiterverwenden.
-7. **Wirtschaftliche Tragfähigkeit** auch bei 25–35 % Gesamtbelegung testen.
+## 8. Nachweise und Dateien
+- [Vollständiger Finanzbericht mit Tabellen und Formeln](15-finanzanlage-fuer-praesentation.md)
+- [Rechnerisch geprüfte Events und Angebotsstücke](14-angebote-und-preiskalkulation.md)
+- [12-Monats-Datentabelle (CSV)](../research/2026-11-10-finanz-anlaufphase.csv)
+- [Prüfskript zu Annuität/Szenarien/Break-even](../scripts/validate_presentation_finances.py)
+- [Vollständiger Vortrag aller 21 Folien](../presentation/PADEL-RUSH-PRAESENTATION-INHALT-KOMPLETT.md)
 
-## 7. Standort nur als fiktiver Kontext
-
-Wunschstandort: ehemaliger BVG-Betriebshof Niederschönhausen, **für ein Schulreferat hypothetisch als Umnutzung gedacht**. Keine Vermieter-, BVG- oder Behördenanfragen. Bisherige öffentliche Standorthinweise bleiben nur Teil der Risikoanalyse. Die früheren Inserate alternativer Hallen sind **keine Grundlage** dieser 1.600-m²-Modellrechnung.
-
-## 8. Quellen und Arbeitsdateien
-- [Vollständig kalkulierte Angebote mit Rechenweg](14-angebote-und-preiskalkulation.md)
-- [Einzelkalkulation als CSV](../research/2026-11-10-angebote-einzelkalkulation.csv)
-- [Python-Check: Rechenmodell und Konsistenztests](../scripts/validate_financial_model.py)
-- [Hallenmodell](13-hallenkonzept.md)
-- [Berliner Wettbewerb](04-markt-und-konkurrenz.md)
-- [Anbieterpreise PadelBros (Vergleich)](https://padel-bros.de/pages/buchen)
-- [Rico Janotta, Berliner Trainingspreise](https://padel-training-berlin.com/)
-
-**Status 10.11.2026:** Preis- und Umsatzlogik konsistent; **volle Investitions-/GuV-/Cashflow-Planung ist die nächste Aufgabe**. Keine vermeintlich realen Gewinne behaupten.
+**Status:** Für die inhaltliche Schulpräsentation fertig gerechnetes **hypothetisches Modell**; keine geprüften Verträge, Kunden oder echten Jahresabschlüsse.
