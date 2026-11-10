@@ -17,7 +17,7 @@
 6. **Markt- und Konkurrenzanalyse** — **8 Clubs verglichen**, als Folienfokus PadelBros (Indoor 32/40 €), 4PADEL (Indoor ab rechnerisch 37 €), Füchse (Outdoor/Abomodell); weitere Berliner Clubs als Reserve. [Belegter Bericht](../research/2026-11-10-markt-konkurrenz-berlin.md).
 7. **Geschäftskonzept und Differenzierung** — **„Vom ersten Match zur eigenen Spielgruppe“**: Rush Starter → Rush Matchmaker → Rush League; **keine behauptete Einzigartigkeit**, da andere Clubs auch Community haben.
 8. **Halle und Ausstattung** — **4 Indoor-Courts, 16 gleichzeitig Spielende, ca. 1.600 m² hypothetische Gesamtfläche**; Empfang, Lounge, Sanitär, Technik und Wege. [Hallenkonzept](13-hallenkonzept.md). Außen-Court im Mockup ist nur spätere Vision.
-9. **Dienstleistungen und Preise** — 28 € Nebenzeit / 40 € Hauptzeit **pro Courtstunde, als Modellpreise**; Rush Social/League/Academy/Business, Verleih und Lounge. 36 € Ø nur bei 2/3 Prime-Stunden.
+9. **Dienstleistungen und Preise** — **28 €/h Nebenzeit, 40 €/h Hauptzeit**, Starter **29 €/Person**, Social **18 €/Person**, Academy **45 €/Person**, Liga **129 €/Person/Saison**, Tournament **35 €/Person**, Business **599 €/Gruppe**. Durchgerechnet in [Angebotskalkulation](14-angebote-und-preiskalkulation.md); alles Schulannahmen.
 
 **Überleitung:** „Das Angebot steht – wie kommen Kunden zu uns und wie organisieren wir den Betrieb?“
 
@@ -33,9 +33,9 @@
 
 ### Person 4 — Finanzierung, Risiken und Schluss (ca. 6–8 Min.)
 16. **Finanzierung** — Eigenmittel, Kredite, Konditionen und Finanzierungsrisiken.
-17. **Umsatzplanung** — Kapazität × Auslastung × Preis + echte zusätzliche Beiträge.
-18. **Monatliche Kosten und Ergebnis** — Auszahlungen vs. Gewinn unterscheiden.
-19. **Break-even / Szenarien / Liquidität** — Auslastungs- und **Preis-Sensitivität**: bei 36 €/h Ø ca. 38,4 % Liquiditäts-Break-even, bei 34 €/h ca. 40,6 %, bei 32 €/h ca. 43,2 % (alle Werte nur Schulannahmen).
+17. **Umsatzplanung** — **1.680 mögliche Courtstunden, 756 belegt (45 %), davon 116 Event-Courtstunden und 640 normale Buchungsstunden; 34 € Ø reguläre Courtstunde**. Eventtickets statt doppelter Courtmiete zählen.
+18. **Monatliche Kosten und Ergebnis** — **ca. 29.975 € brutto / 25.189 € Modell-Nettoerlöse, 3.315 € direkte Kosten, 20.500 € angenommene Fix-/Finanzierungsauszahlungen, ≈ 1.374 € Modellüberschuss**; kein echter Gewinn/realer Cashflow.
+19. **Rentabilität / Szenarien / Liquidität** — **NEUES integriertes Preis-Mix-Modell**: bei 45 % Gesamtauslastung und 32 / 34 / 36 € Ø reguläre Courtstunde ≈ **+324 € / +1.374 € / +2.424 €** nach angenommenen Auszahlungen. Frühere pauschale Break-even-Prozente ohne Eventkosten sind **überholt**. Echter Break-even, GuV und Liquiditätsplan folgen separat.
 20. **Chancen, Risiken, Lösungen** — realistische SWOT, Standortrisiko besonders deutlich.
 21. **Zukunft und Fazit** — konkrete Ausbauoptionen und klarer Abschluss.
 
@@ -53,6 +53,13 @@
 - **Folie 7:** Servicekette Starter → Matchmaker → League; nicht mit „sonst keiner macht das“ argumentieren.
 - **Folie 9:** 28/40 € als geplante Bruttopreise; Anbieterbeispiele belegen Plausibilität.
 - **Folie 19:** Preis-Mix-Risiko mit 32/34/36 € bei sonst identischen Annahmen zeigen.
+
+## Aktualisierung Preis- und Finanzfolien (10.11.2026)
+
+- **Folie 9:** Preise aus [14 — Angebotskalkulation](14-angebote-und-preiskalkulation.md), für Court und Veranstaltungen jeweils eindeutige **Einheit/Teilnehmeranzahl** zeigen.
+- **Folie 17:** **756 Courtstunden belegt = 640 regulär + 116 Eventstunden**, nicht Eventstunden doppelt vermieten.
+- **Folie 18:** Direkte Eventkosten **3.315 €**, Fix-/Finanzierungsannahmen **20.500 €**, steuerliche und finanzielle Vereinfachungen kennzeichnen.
+- **Folie 19:** Szenarioüberschüsse aus [aktualisiertem Finanzdokument](05-finanzen.md) statt alter pauschaler Break-even-Grafik verwenden.
 
 ## Präsentationsanker
 - **Einstieg:** Menschen wollen unkompliziert mit Freunden Sport treiben; Padel als zugängliches Freizeitangebot.
