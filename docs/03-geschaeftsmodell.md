@@ -22,6 +22,14 @@ PADEL RUSH BERLIN vermietet Padel-Spielzeit und ergänzt die Courts durch Traini
 5. **Rush Business:** Firmenveranstaltungen mit Courts, Anleitung und optional Getränken.
 6. **Lounge & Zubehör:** Getränke, Snacks, Bälle, Schlägerverleih; zunächst **keine vollwertige Gastronomie**.
 
+## Preis-/Wettbewerbsabgleich (10.11.2026)
+
+Die Beispiele **28 €/h Nebenzeit und 40 €/h Hauptzeit** sind im Vergleich zu Indoor-Club **PadelBros (32/40 €/h)** und Outdoor-Anbieter **PadelCity Berlin (32/40 €/h)** plausible **Schulpreise**, kein bewiesener Marktpreis für unseren Standort. [Gesicherte Preisliste PadelBros](https://padel-bros.de/pages/buchen), [PadelCity](https://padelcity.de/berlin/), [gesamte Marktanalyse](04-markt-und-konkurrenz.md).
+
+**Kernpositionierung:** nicht „keine Konkurrenz“, sondern **ein klar geführter Einsteigerclub mit planbaren offenen Matches in Nordberlin**. „Rush Starter“ und „Rush Matchmaker“ sind zusätzliche Marketingnamen und **keine bereits erbrachten Services**. Andere Clubs bieten ebenfalls Anfängerangebote und Community.
+
+Der im Finanzmodell stehende durchschnittliche **36-€-Courttarif** ist nur bei ca. **66,7 % Hauptzeit-Stunden** erreichbar. Bei 50:50-Mix sind es 34 €/h, bei nur einem Drittel Hauptzeitstunden 32 €/h. Diese Szenarien folgen in der [Finanzrechnung](05-finanzen.md).
+
 ## Erste Preisideen (nicht validiert)
 | Produkt | Beispiel-Endkundenpreis | Hinweis |
 |---|---:|---|
