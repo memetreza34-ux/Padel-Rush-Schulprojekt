@@ -1,69 +1,66 @@
 # 03 — Geschäftsmodell und Angebote
-**Stand:** 09.11.2026 · Preise und Leistungen sind Vorschläge, keine bestätigten Angebote.
 
-## Geschäftsmodell in einem Satz
-PADEL RUSH BERLIN vermietet Padel-Spielzeit und ergänzt die Courts durch Training, Community, Turniere, Firmenangebote, Schlägerverleih und eine kleine Lounge.
+> **Aktualisiert 10.11.2026 · fiktive Schulgründung.** **Verbindliche Beispielpreise und vollständige Stückkalkulation:** [14 — Angebote und Preiskalkulation](14-angebote-und-preiskalkulation.md). **Alle Preise sind Modellannahmen**, keine veröffentlichte Preisliste eines echten Betriebs.
 
-## Zielgruppen und Kundennutzen
-| Zielgruppe | Bedürfnis | Angebot |
+## Unser Geschäftsmodell in einem Satz
+**PADEL RUSH BERLIN** bietet vier wetterunabhängige Indoor-Doppelcourts und verbindet Courtvermietung mit **Starterkursen, offenen Spielen, Training, Liga, Turnieren, Firmenevents, Verleih und kleiner Lounge**. Die Kernidee ist der gut organisierte Weg „**vom ersten Spiel zur regelmäßigen Spielgruppe**“.
+
+## Zielgruppen und Kundenprobleme
+| Zielgruppe | Typisches Problem | Lösung bei PADEL RUSH |
 |---|---|---|
-| Freunde und Freizeitsportler | Gemeinsame Aktivität ohne lange Vorbereitung | Courtstunden |
-| Padel-Anfänger | Einstieg ohne eigene Ausrüstung | Schnupperkurs + Verleih |
-| Einzelspieler | Mitspieler finden | Rush Social / offene Matches |
-| Stammspieler | Regelmäßiger sportlicher Wettbewerb | Rush League |
-| Unternehmen | Teambuilding und Veranstaltungen | Rush Business |
-| Jugendliche / Familien | Zugängliche Sportaktivität | Angebotszeiten / Einsteigerprogramme |
+| Berufstätige und Freundesgruppen | Feste Spielzeit und wetterunabhängige Sportmöglichkeit | Online-Courtbuchungen |
+| Padel-Einsteiger | Fehlende Regel- und Technikkenntnisse | Rush Starter |
+| Einzelspieler | Drei Mitspieler fehlen | Rush Social / Matchmaker |
+| Engagierte Freizeitspieler | Regelmäßiger Wettbewerb | Rush League + Turniere |
+| Sportliche Paare | Gezieltes Training | Rush Academy |
+| Arbeitgeber | Einfaches Teamevent | Rush Business |
+| Aufenthaltsgäste | Schläger vergessen / Getränk nach dem Match | Verleih + kleine Lounge |
 
-## Kernangebote
-1. **Courtvermietung:** normale Nebenzeit- und Hauptzeit-Buchungen.
-2. **Rush Social:** betreute offene Spieltreffen mit wechselnden Mitspielern.
-3. **Rush League:** interne Liga mit Gruppen, Rangliste und Finaltermin.
-4. **Rush Academy:** Anfänger- und Gruppentraining durch fachlich geeignete Trainer.
-5. **Rush Business:** Firmenveranstaltungen mit Courts, Anleitung und optional Getränken.
-6. **Lounge & Zubehör:** Getränke, Snacks, Bälle, Schlägerverleih; zunächst **keine vollwertige Gastronomie**.
+## Geplante Endkundenpreise (Schulannahmen)
 
-## Preis-/Wettbewerbsabgleich (10.11.2026)
-
-Die Beispiele **28 €/h Nebenzeit und 40 €/h Hauptzeit** sind im Vergleich zu Indoor-Club **PadelBros (32/40 €/h)** und Outdoor-Anbieter **PadelCity Berlin (32/40 €/h)** plausible **Schulpreise**, kein bewiesener Marktpreis für unseren Standort. [Gesicherte Preisliste PadelBros](https://padel-bros.de/pages/buchen), [PadelCity](https://padelcity.de/berlin/), [gesamte Marktanalyse](04-markt-und-konkurrenz.md).
-
-**Kernpositionierung:** nicht „keine Konkurrenz“, sondern **ein klar geführter Einsteigerclub mit planbaren offenen Matches in Nordberlin**. „Rush Starter“ und „Rush Matchmaker“ sind zusätzliche Marketingnamen und **keine bereits erbrachten Services**. Andere Clubs bieten ebenfalls Anfängerangebote und Community.
-
-Der im Finanzmodell stehende durchschnittliche **36-€-Courttarif** ist nur bei ca. **66,7 % Hauptzeit-Stunden** erreichbar. Bei 50:50-Mix sind es 34 €/h, bei nur einem Drittel Hauptzeitstunden 32 €/h. Diese Szenarien folgen in der [Finanzrechnung](05-finanzen.md).
-
-## Erste Preisideen (nicht validiert)
-| Produkt | Beispiel-Endkundenpreis | Hinweis |
+| Angebot | Preis | Enthalten / Voraussetzung |
 |---|---:|---|
-| Court Nebenzeit | 28 €/h | Bruttopreis/angenommene Umsatzsteuer prüfen |
-| Court Hauptzeit | 40 €/h | Bruttopreis |
-| Durchschnitt für Finanzmodell | 36 €/h | Nur Rechengröße |
-| Schlägerverleih | 3 € | Mietbedingungen offen |
-| Anfängergruppe (90 Min.) | 19 € pro Person | Trainerkosten separat rechnen |
-| Social Night (90 Min.) | 18 € pro Person | Belegte Courtstunden nicht doppelt zählen |
-| Turnierstart | 25 € pro Person | Turnier-/Preis-/Personalaufwand nötig |
-| Firmenevent (3 Std.) | ab 599 € | Kosten und Kapazität noch prüfen |
-| Nebenzeit-Mitgliedschaft | 49 €/Monat | Nur mit begrenzten Nutzungsrechten anbieten |
+| Indoor-Doppelcourt Mo–Fr 08–17 Uhr | **28 € pro Stunde** | gesamter Court, 60 Min. |
+| Indoor-Doppelcourt Mo–Fr 17–22 Uhr / Sa–So | **40 € pro Stunde** | gesamter Court, 60 Min. |
+| Court 90 Min. Nebenzeit / Hauptzeit | **42 € / 60 €** | gesamter Court |
+| Rush Starter | **29 €/Person** | 4 Personen, Trainer, 90 Min. |
+| Rush Academy | **45 €/Person** | 2 Personen, Trainer, 60 Min. |
+| Rush Social / Matchmaker | **18 €/Person** | 8 Personen, 2 Courts, 90 Min. (bei 4 Teilnehmenden auf 1 Court skalierbar) |
+| Rush League | **129 €/Person je Saison** | 16 Personen in 8 Zweierteams; 7 Wochen |
+| Rush Tournament | **35 €/Person** | 32 Personen, 4h Event, 4 Courts blockiert |
+| Rush Business | **599 € je Gruppe** | 8–12 Personen, 3h, 2 Courts, Coach/Betreuung/Getränke |
+| Schlägerverleih | **3 €/Schläger/Spieltermin** | bis 90 Min. |
+| Softdrink / Snack | **2,50 € / 2,90 €** | kleine Theke, kein Restaurant |
+| Rush Member | **9,90 €/Monat** | 10 % auf max. 2 Nebenzeitstunden, **keine** freie Courtzeit |
 
-## Wertangebot / Wettbewerbsdifferenzierung
-„Einfach buchen, sofort Anschluss finden, regelmäßig wiederkommen.“
-- Fokus auf zugängliche Anfängerangebote und Einzelspieler ohne komplette Vierergruppe.
-- Regelmäßige Events und gute Organisation.
-- Transparentes Preismodell, attraktive Nebenzeiten, eine erkennbare Sportmarke.
-- **Kein unbelegter USP:** Andere Padelclubs können diese Leistungen ebenfalls anbieten; echte Differenzierung muss durch Standort, Ausführung und lokale Marktdaten belegt werden.
+**Preispositionierung:** PadelBros Berlin verlangt 32 €/h Nebenzeit und 40 €/h Hauptzeit: https://padel-bros.de/pages/buchen (offizieller Betreiberstand 10.11.2026). Ein Berliner Trainer nennt für 90 Minuten 4er-Gruppentraining 37,50 €/Person inkl. Court: https://padel-training-berlin.com/ (Betreiberstand 10.11.2026). **Unsere Trainerkosten** bleiben ausdrücklich eigene Modellansätze.
 
-## Festgelegtes Hallenmodell für die Schulpräsentation (10.11.2026)
+## Buchungs- und Kapazitätsregeln
+- Alle vier Courts sind **flexibel**. Starter-, Liga- und Event-Slots sind **keine zusätzlichen Courts**.
+- Geplante Öffnungszeiten: **08–22 Uhr an sieben Tagen**, in der Musterkalkulation **30 Tage/Monat**.
+- Es gibt **1.680 verfügbare Courtstunden pro Modellmonat**.
+- Bei **45 % Gesamtauslastung** sind **756 Courtstunden** belegt; im kalkulierten Beispiel **116 für organisierte Angebote**, **640 für normale Courtbuchungen**.
+- **Keine Doppelberechnung** von Courtmiete zusätzlich zu einem bereits enthaltenen Event-Court.
+- Veranstaltungen nur bei ausreichender Teilnehmerzahl bestätigen: Starter 4, Liga 8 Zweierteams, Turnier 32; Social alternativ von 8 auf 4 Teilnehmende und von 2 auf 1 Court reduzieren.
+- Mitgliederrabatte wirken auf **tatsächliche Courtumsätze**; sie dürfen nicht zusätzlich als nicht genutzter „Mehrwert“ angesetzt werden.
+- Nicht belegte freie Stunden erzeugen **keinen Umsatz**.
 
-- **Vier Indoor-Doppelcourts**, **null Outdoor-Courts zur Eröffnung**.
-- **Ca. 1.600 m² hypothetische Innenfläche**, davon **800 m² reine Court-Spielfläche**.
-- Empfang, Lounge mit kleiner Snackbar, Verleih, Duschen, WCs, Umkleiden, Lager, Technik und Zugangsflächen sind eingeplant.
-- Der Außenplatz auf dem vorhandenen Rendering bleibt **eine mögliche Zukunftserweiterung** und erscheint in der Basisrechnung nicht.
-- Zahlen und Flächen im [ausführlichen Hallenkonzept](13-hallenkonzept.md).
+## Warum nicht das alte 49-€-Abo?
+Ein 49-€-Paket mit mehreren ganzen Courtstunden wäre bei einem Nebenzeitpreis von 28 €/h schnell wirtschaftlich nachteilig: vier Courtstunden kosten regulär **112 € brutto**. Stattdessen schlägt das Schulmodell eine **kleine Mitgliedschaft ohne inklusive Courtstunden** vor; konkrete Rabatte sind begrenzt.
 
-## Betriebshypothese
-- Rechenmodell: **4 Indoor-Courts**, **14 Stunden/Tag**, **30 Tage/Monat** = 1.680 verfügbare Courtstunden.
-- Aufteilung der Kernzeiten und tatsächliche Öffnungszeiten sind noch offen.
-- Training, Events und freie Buchungen **belegen dieselben Courts**: Umsätze nicht doppelt rechnen.
-- Nebenzeiten gezielt an Schulen, Unternehmen, Anfängergruppen verkaufen.
-- Echte Buchungs-/Mitgliedschaftssoftware evaluieren (z. B. Playtomic); **nicht** vorschnell ein eigenes Zahlungssystem bauen.
+## Wirtschaftliche Begründung
+- Courtvermietung trägt den Basisbetrieb.
+- Einsteigertraining und offene Matches dienen **Kundengewinnung und Wiederbuchungen**; sie müssen die blockierte Courtzeit zumindest rechtfertigen.
+- Firmenevents können tagsüber zusätzliche Deckungsbeiträge bringen.
+- Ligabetrieb bindet Kunden längerfristig, ist bei normaler Hauptzeitvermietung aber **keine automatisch große zusätzliche Einnahmequelle**.
+- Shop und Lounge werden **nicht ohne Absatzannahmen** dem monatlichen Musterergebnis zugerechnet.
 
-## Für später notwendige Kennzahlen
-Buchbare Stunden, tatsächlich verkaufte Courtstunden, Preisrealisierung, Umsatz pro verfügbare Courtstunde, wiederkehrende Nutzer, Stornierungen, Kosten je Neukunde, Umsatz/Deckungsbeitrag pro Event und Personalstunden.
+## Projektkontext
+- **Standortvision:** ehemaliger BVG-Betriebshof Niederschönhausen; eine **fiktive** Präsentationsannahme, kein verfügbarer Mietstandort.
+- **Halle:** vier Indoor-Doppelcourts, null Outdoor zum Start, ca. 1.600 m² eigene Flächenannahme. [Hallenkonzept](13-hallenkonzept.md).
+- **Konkurrenz:** [Berliner Marktrecherche](04-markt-und-konkurrenz.md); Padel Rush ist **nicht konkurrenzlos**.
+- **Verbindliche Produkt- und Kostenlogik:** [Angebote und Preiskalkulation](14-angebote-und-preiskalkulation.md).
+- **Preis-/Umsatz- und Fixkostenmodell:** [Finanzen](05-finanzen.md).
+
+## Nächster Schritt
+Die vorläufigen **Investitionen, Finanzierung, Fixkosten, Monats-/Jahresergebnis und Liquidität** als geschlossenen Finanzplan ausarbeiten. Für die Folien niemals ungeprüfte Zahlen als echte Gewinne darstellen.
