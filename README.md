@@ -17,6 +17,7 @@ PADEL RUSH ist die Idee für einen modernen Padel- und Freizeitclub in Berlin: C
 | Geschäftsmodell, Zielgruppen und Angebote | [Geschäftsmodell](docs/03-geschaeftsmodell.md) |
 | **Vollständige Angebots-, Kosten- und Erlöskalkulation** | **[14 — Preise und Deckungsbeiträge](docs/14-angebote-und-preiskalkulation.md)** |
 | Angebote als CSV zum Nachrechnen | [Einzelkalkulation (CSV)](research/2026-11-10-angebote-einzelkalkulation.csv) |
+| Automatischer Rechencheck ohne externe Bibliotheken | [Prüfskript (Python)](scripts/validate_financial_model.py) |
 | **Marktanalyse Berlin – 8 recherchierte Wettbewerber** | **[Marktanalyse](docs/04-markt-und-konkurrenz.md)** |
 | Vollständiger Quellen-/Konkurrenzbericht vom 10.11.2026 | [Research](research/2026-11-10-markt-konkurrenz-berlin.md) |
 | Tabelle mit 8 Berliner Padelclubs (CSV) | [Wettbewerberdaten](research/2026-11-10-wettbewerber-berlin.csv) |
