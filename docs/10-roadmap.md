@@ -13,19 +13,28 @@
 | **Hallenkonzept** | **4 Indoor-Courts, 0 Outdoor zum Start, 16 Spielende gleichzeitig, ca. 1.600 m² Raumprogramm, Outdoor später optional** | **Inhaltlich fertig** |
 | **Markt und Konkurrenz Berlin** | **Q3-Berliner Marktzahlen, 8 Konkurrenzclubs, Preisspannen, Zielgruppenhypothesen, SWOT und Nachfrage-Umfragevorlage** | **Recherche fertig / Befragung offen** |
 | **Angebote und Preise** | **Vollständige Einzelkalkulation für Courts, Starter, Academy, Social, Liga, Turnier, Business, Lounge, Mitgliedschaft**; Court-Zeit und Veranstaltungsbeiträge gerechnet | **ABGESCHLOSSEN als Schulmodell** |
-| Finanzen | **Integriertes Monatsbeispiel ohne Doppelzählung**: 45 % Belegung, 640 normale + 116 Eventstunden, bei 34 €/h normaler Ø ≈ 1.374 € rechnerischer Überschuss; **Investition/GuV/Cashflow offen** | **Teilweise – nächster Schritt** |
+| **Finanzen als Schulmodell** | **340.000 € Kapitalbedarf incl. 50.000 € Reserve, Kredit 240.000 € bei Modellzins 7 %, 12-Monats-Anlauf, 42-%-Bedingungs-Break-even und drei Szenarien** | **Vortragsreif / alles als Planannahme markiert** |
 | Werbung / Website | Konzept und Toolliste vorhanden, noch keine fertige Demo | **Offen** |
-| Abschlussfolien / Vortrag | Inhalt und Gestaltung noch zu produzieren | **Offen** |
+| **21-Folien-Vortrag (inhaltlich)** | **Alle Folientexte, wortgetreuen Sprechertexte, Übergänge, Quellen, Abbildungsverzeichnis, Lehrerfragen** | **INHALTLICH ABGESCHLOSSEN** |
+| PowerPoint/PPTX und Sprecherproben | Foliengestaltung, Originalbilder, Notizen, Quellenzeilen, tatsächliche Zeitprüfung | **ALS NÄCHSTES** |
 
 ## Empfohlene Reihenfolge ohne unnötige externe Formalitäten
 
 1. **Grundlagen und Hallenkonzept — ABGESCHLOSSEN:** [Raumprogramm](13-hallenkonzept.md); 4 Indoor, 1.600 m² als fiktive Fläche.
 2. **Markt und Zielgruppe — RECHERCHE ABGESCHLOSSEN:** 8 Berliner Wettbewerber, Q3/2026-Zahlen, Tarifbeispiele, Zielgruppenhypothesen, SWOT und [freiwillige Umfragevorlage](../templates/nachfrage-umfrage.md) erstellt. **Umfrage noch offen**, keine Ergebnisse erfinden.
 3. **Angebote und Preise — ABGESCHLOSSEN ALS SCHULMODELL:** vollständige [14 — Angebotskalkulation](14-angebote-und-preiskalkulation.md), [CSV-Einzelwerte](../research/2026-11-10-angebote-einzelkalkulation.csv) und Wochenbelegungsplan. Preise nur hypothetisch, nicht durch Buchungen validiert.
-4. **Finanzrechnung:** Courts + Umbau + Lounge/Technik/Personal, Startkapital, Finanzierung, Betriebskosten, Break-even, Worst/Base/Best; **kein doppeltes Zählen von Courtstunden**.
+4. **Finanzrechnung — FÜR SCHULVORTRAG ABGESCHLOSSEN:** [Finanzanlage](15-finanzanlage-fuer-praesentation.md) mit **340.000 €** modellhaftem Kapitalbedarf, 100.000 € Eigenkapital und 240.000 € Darlehen, 12-Monats-Anlaufplan und drei Szenarien. **Keine echten Bauangebote, Bankzusage oder Gründergehälter.**
 5. **Marketing und Markenmaterial:** Flyer, Posts, Eröffnungskampagne, Logo-Dateien und einheitliches Farbsystem.
 6. **Website als Schul-Demo:** courts/Termine/Preise, simuliertes Buchen ohne echte Zahlung oder Daten.
-7. **Präsentation und Probelauf:** 21 Folien, 4 gleichmäßig vorbereitete Sprecher, Quellenchecks und rechtliche Risiken in 1 kurzer Folie.
+7. **Präsentation — INHALTE FERTIG, DESIGN ALS NÄCHSTES:** [Komplettes 21-Folien-Skript](../presentation/PADEL-RUSH-PRAESENTATION-INHALT-KOMPLETT.md), [Quellen- und Medienregister](../presentation/05-quellen-und-folienmaterial.md), [Lehrerfragen](../presentation/06-fragen-und-qualitaetssicherung.md); danach **PPTX, Bildoriginale und Zeitprobe**.
+
+## Neu: Vollständiger Präsentationsinhalt und Finanzmodell (10.11.2026)
+
+- **Inhaltlich komplett:** [Gesamtes Manuskript für 21 Folien](../presentation/PADEL-RUSH-PRAESENTATION-INHALT-KOMPLETT.md) und vier separate Sprechermanuskripte, sichtbare Folieninhalte und Quellen je Folie.
+- **Finales Präsentations-Szenario:** **340.000 €** hypothetisch inkl. **50.000 € Liquiditätsreserve** statt alter 320.000 €; Kreditmodell **240.000 € × 7 % / 8 Jahre** (Annuität ca. 3.272 €/Monat); Budgetposition 3.500 €.
+- **Basismonat:** 45 % Belegung, 640 freie/116 Event-Courtstunden, +1.374 € vereinfachte Budgetdeckung. **Nur unter festen Eventannahmen ca. 42 % Break-even.**
+- **Anlaufjahr:** rechnerisch −28.932 € nach Budget-Auszahlungen; reservebedingt kritischer Puffer. **Keine tatsächliche Gewinnprognose.**
+- **Nächste GitHub-Aufgabe [#8](https://github.com/memetreza34-ux/Padel-Rush-Schulprojekt/issues/8):** PowerPoint professionell gestalten und nachbearbeiten, keine neue Recherche-Schleife ohne Bedarf.
 
 ## Neuer Kalkulationsstand (10.11.2026)
 
@@ -65,4 +74,4 @@
 - Repository ist **öffentlich**: keine Schüler- oder Kundendaten veröffentlichen.
 
 ## Nächster konkreter Auftrag
-**Vollständige Finanz- und Rentabilitätsplanung** auf Grundlage der nun kalkulierten Preise und Eventstunden erstellen: Investitionen, Finanzierung, 12-Monats-Szenarien, Betriebskosten, Personal, Tilgung vs. GuV, Break-even und Liquidität. GitHub-Aufgabe [#3](https://github.com/memetreza34-ux/Padel-Rush-Schulprojekt/issues/3). Eine echte Nachfrageumfrage ist optional und nicht als durchgeführt zu behaupten.
+**PowerPoint aus den fertig geschriebenen 21 Folien erstellen**: vorhandenes Branding und Standortbilder verwenden, Quellen auf Zahlenfolien, Sprechertexte in Notizen, Folien visuell prüfen und mit dem Viererteam zeitlich proben. [GitHub-Aufgabe #8](https://github.com/memetreza34-ux/Padel-Rush-Schulprojekt/issues/8). Keine echte Standort-/Genehmigungsarbeit. Eine echte Nachfrageumfrage ist optional und nicht als durchgeführt zu behaupten.
