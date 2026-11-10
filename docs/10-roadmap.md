@@ -8,7 +8,7 @@
 |---|---|---|
 | Unternehmensname / Team | PADEL RUSH BERLIN / vier Gründer | **Festgelegt** |
 | Branding | PR-BERLIN-Logo, Dunkelblau/Neongelb/Weiß, vier Bildvorlagen im Chat | **Konzept vorhanden; Originaldateien nicht im Repo** |
-| Präsentationsgliederung | 21 Folien, 4 Sprecher und roter Faden | **Gliederung fertig** |
+| Präsentationsgliederung | 21 Folien, 4 Sprecher und roter Faden | **Gliederung und Vortragsinhalte fertig** |
 | Standortvision | Historischer BVG-Betriebshof Niederschönhausen; bekannte Einschränkungen dokumentiert | **Als fiktive Standortvision abgeschlossen** |
 | **Hallenkonzept** | **4 Indoor-Courts, 0 Outdoor zum Start, 16 Spielende gleichzeitig, ca. 1.600 m² Raumprogramm, Outdoor später optional** | **Inhaltlich fertig** |
 | **Markt und Konkurrenz Berlin** | **Q3-Berliner Marktzahlen, 8 Konkurrenzclubs, Preisspannen, Zielgruppenhypothesen, SWOT und Nachfrage-Umfragevorlage** | **Recherche fertig / Befragung offen** |
@@ -41,7 +41,7 @@
 - [Vollständige Angebots- und Preiskalkulation](14-angebote-und-preiskalkulation.md)
 - **Alle Produkte auf Deckungsbeitrag, direkte Kosten und entgangene Courtmiete geprüft**; 4 Courts ohne Doppelbelegung.
 - Alte pauschale **1.000-€-Zusatzdeckungsbeitragsannahme ersetzt**; nicht zusätzlich zum neuen Eventmodell verwenden.
-- **Nächste Aufgabe: vollständige Finanzplanung**, mit Investitionsbudget, realistischem Kredit-/Tilgungsbeispiel, Personal, Worst/Base/Best, Liquidität und Ergebnis.
+- **Finanzplanung für den Schulvortrag inzwischen erstellt:** [vollständige Finanzanlage](15-finanzanlage-fuer-praesentation.md), nicht als reales Kredit-/Bauangebot zu interpretieren. **Nächste Aufgabe #8: PowerPoint-Gestaltung.**
 
 ## Neue Recherche-Ergebnisse (10.11.2026)
 
