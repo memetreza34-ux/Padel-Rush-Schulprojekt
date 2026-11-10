@@ -1,5 +1,5 @@
 # 07 — Marke, Werbung und Kundenbindung
-**Stand:** 09.11.2026 · Status: Konzept, keine gestartete Kampagne
+**Stand:** 10.11.2026 · Status: Konzept, keine gestartete Kampagne
 
 ## Markenkern
 - **Name:** PADEL RUSH BERLIN.
@@ -11,6 +11,24 @@
 
 ## Positionierung
 Kein reiner Platzvermieter: Padel Rush kombiniert niedrigschwellige Einstiegsmöglichkeiten und offene Matches mit Community, Turnieren und Firmenevents. Das muss an einem geeigneten Standort durch Servicequalität, Öffnungszeiten und Preise konkret eingelöst werden.
+
+## Verbindliche Preise für fiktive Marketingmaterialien (10.11.2026)
+
+Alle Preise dienen der **Schul-Demo** und müssen auf Flyer, Website und Präsentation übereinstimmen. Detailbeschreibung: [Angebote und Kalkulation](14-angebote-und-preiskalkulation.md).
+
+| Angebot | Endkundenpreis im Schulmodell |
+|---|---:|
+| Court Mo–Fr 08–17 Uhr | **28 €/h** je ganzem Doppelcourt |
+| Court abends / Wochenende | **40 €/h** je ganzem Doppelcourt |
+| Rush Starter / 90 Minuten | **29 €/Person** bei 4 Teilnehmern |
+| Rush Academy / 60 Minuten | **45 €/Person** bei 2 Teilnehmern |
+| Rush Social / 90 Minuten | **18 €/Person** |
+| Rush League / 7 Wochen | **129 €/Person** |
+| Rush Tournament | **35 €/Person** |
+| Rush Business / 3 Stunden | **599 €/Gruppe** |
+| Rush Member | **9,90 €/Monat**, keine inkludierte Courtstunde |
+
+**Wichtig:** Ein Flyer darf nicht „kostenlos trainieren“ oder „ab 599 €“ ohne Teilnehmer-/Paketumfang behaupten. Alle Beispielpreise als **fiktiver Schul-Businessplan** kennzeichnen.
 
 ## Kampagnenarten
 | Maßnahme | Zweck | Messgröße |
