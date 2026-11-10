@@ -42,6 +42,24 @@ Für die Schulgründung gilt nun das Basismodell **4 Indoor-Courts / 0 Outdoor-C
 
 Die vorhandenen Beträge (320.000 € Startkapital, 8.500 € Beispiel-Miete, 20.500 € Monatssumme) bleiben vorerst **hypothetische Rechenwerte**, keine objektbezogenen Angebote. Das Bild mit Außen-Court stellt nur eine spätere Ausbaustufe dar. Courtstunden bei Training, Social Night, Liga und freier Buchung **nicht doppelt zählen**.
 
+## Markt- und Preisrealität (10.11.2026)
+
+Der Preis von **28 €/Courtstunde Nebenzeit** bzw. **40 €/Courtstunde Hauptzeit** ist ein **Schulangebot**. Die [Berliner Wettbewerbsanalyse](04-markt-und-konkurrenz.md) zeigt echte Vergleichstarife, insbesondere Indoor-Club PadelBros mit 32 €/h Nebenzeit und 40 €/h Hauptzeit.
+
+Der bisher verwendete gewichtete Durchschnitt von **36 €/h brutto** folgt **nicht automatisch aus den zwei Tarifen**: Dafür müssen **66,7 %** der verkauften Stunden Hauptzeitstunden sein. Bei 50 % Hauptzeit sind es **34 €/h**, bei einem Drittel **32 €/h**.
+
+Mit den **bestehenden, rein modellhaften** Auszahlungen von 20.500 €/Monat, zusätzlichem Deckungsbeitrag 1.000 €/Monat und rechnerischen 19 % USt ergibt sich die **vereinfachte Liquiditäts-Break-even-Auslastung**:
+
+| Durchschnittspreis brutto je Courtstunde | Break-even-Auslastung, ca. |
+|---:|---:|
+| 28 € | 49,3 % |
+| 30 € | 46,0 % |
+| 32 € | 43,2 % |
+| 34 € | 40,6 % |
+| 36 € | 38,4 % |
+
+Diese Tabelle ist **kein verifizierter Gewinnplan** und belegt keine tatsächlich erreichbare Auslastung. **Kapitaldienst ist im Modell als Auszahlung enthalten, auch Tilgung**; betriebswirtschaftliche GuV getrennt betrachten. Bei Kursen und Turnieren die belegten Courtstunden **nicht doppelt** verkaufen.
+
 ## Rechenweg Courts
 - 4 Courts × 14 Öffnungsstunden/Tag × 30 Tage = **1.680 mögliche Courtstunden/Monat**.
 - Durchschnittlicher **Bruttopreis 36 €/Courtstunde**.
