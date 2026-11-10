@@ -1,5 +1,7 @@
 # 02 — Standortentscheidung für PADEL RUSH BERLIN
 
+**Schulprojekt-Hinweis:** Fiktive Hallennutzung und Präsentation, **keine Vermieter-/BVG-/Behördenanfragen** vorgesehen. Die bekannten Einschränkungen bleiben nur Teil der Risikoanalyse. Für das Konzept verwenden wir das [Hallenmodell mit vier Indoor-Courts und ca. 1.600 m²](13-hallenkonzept.md), ohne tatsächliche Gebäudepläne zu behaupten.
+
 > **Aktualisiert 10.11.2026** · Vollständige, belegte Prüfung: [Research-Bericht vom 10.11.2026](../research/2026-11-10-standortpruefung-niederschoenhausen.md)
 
 ## Ergebnis
