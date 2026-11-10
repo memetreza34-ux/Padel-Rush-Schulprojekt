@@ -3,7 +3,7 @@
 
 ## MVP-Website
 1. Startseite mit Logo, Hero-Foto/Visualisierung und Unternehmensvision.
-2. Unsere Courts: zunächst vier Indoor-Courts als **geplantes Beispiel**.
+2. Unsere Courts: **vier Indoor-Courts als beschlossenes Schulmodell**, null Outdoor zur Eröffnung; Außen-Court nur spätere Vision. [Hallenkonzept](13-hallenkonzept.md).
 3. Preise: 28 €/h Nebenzeit, 40 €/h Hauptzeit (**Planpreise**).
 4. Angebote: Rush Social, Rush League, Rush Academy, Rush Business, Lounge.
 5. Über uns: Vier Gründer ohne erfundene Namen und ohne unnötige persönliche Daten.
