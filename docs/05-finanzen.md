@@ -1,5 +1,5 @@
 # 05 — Finanzmodell und Annahmen
-**Wichtig:** Alle Beträge sind **Schul-/Szenarioannahmen**, keine erfragten Angebote oder verifizierten Standortkosten. Stand 09.11.2026.
+**Wichtig:** Alle Beträge sind **Schul-/Szenarioannahmen**, keine erfragten Angebote oder verifizierten Standortkosten. Grundmodell 09.11.2026, Standort-Nachtrag 10.11.2026.
 
 ## Investitionsplan (einmalig, exemplarisch)
 | Posten | Annahme |
@@ -63,6 +63,18 @@ Die Finanzierung ist **nicht zugesagt**. Zinssatz, Laufzeit, Sicherheiten, Tilgu
 - **Vergleich Indoor/Outdoor** und zwei Standortvarianten.
 - **Trainer-/Eventkalkulation** nach entgangenen normalen Courtstunden.
 - **Empfindlichkeit** für Courtpreis, Fixkosten, Personal und Auslastung.
+
+## Standort-Nachtrag 10.11.2026 — Mietmarktbeleg, noch keine Padel-Freigabe
+
+Im [Niederschönhausen-Exposé 166021031](https://www.immobilienscout24.de/expose/166021031) ist eine **ungeheizte** Halle mit ca. **1.400 m²** und ca. **18 m Hallenhöhe** inseriert. Miete **5.880 €/Monat**, Nebenkosten **700 €/Monat**, Kaution **17.640 €**, Preise laut Exposé **zuzüglich USt**.
+
+- **Inserats-Monatsbelastung vor Umsatzsteuer:** 5.880 + 700 = **6.580 €**; etwa **7.830,20 € bei rechnerisch 19 % USt**, sofern beide Positionen entsprechend versteuert werden. Die USt ist von der Kostenrechnung bzw. Vorsteuer-/Liquiditätswirkung getrennt zu behandeln.
+- **Kaution:** 17.640 € zusätzlich **gebundene Liquidität**, keine monatliche Betriebsausgabe.
+- **Achtung:** Das Angebot hat **keine bestätigte Sportnutzungs-Erlaubnis**, keine geprüfte Hallengeometrie und **keine Heizung**. Heizungsnachrüstung, Sanitär, Schall, Baugenehmigung und lange Mietdauer können die Kosten massiv ändern.
+- Die alten **8.500 €/Monat Miete** sind eine unabhängige **Schulannahme**. Man darf die neue Anzeigemiete **nicht** ohne weitere Daten als reale Gesamtkosten an deren Stelle setzen.
+- Das BVG-Depot ist wegen öffentlicher Reaktivierungsplanungen **kein gesichertes Mietobjekt**. Der Finanzplan mit 320.000 € Investitionen ist **kein Budget für den Denkmalumbau**.
+
+Siehe [Standortrecherche](../research/2026-11-10-standortpruefung-niederschoenhausen.md).
 
 ## Interpretation
 Die Modellrechnung ist erst nach Prüfung von realen Angebotskosten, Mietvertragsdaten, Nachfrage und Kapazitätsmix eine belastbare Prognose. Für die Präsentation alle Beträge als *Beispielannahmen* kennzeichnen.

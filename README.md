@@ -1,6 +1,6 @@
 # PADEL RUSH BERLIN — Schulprojekt
 
-> **Status (09.11.2026):** Konzeptionelles Schul-Businessprojekt eines vierköpfigen Teams. **Keine echte Eröffnung, Buchbarkeit oder Standortzusage.**
+> **Status (10.11.2026):** Konzeptionelles Schul-Businessprojekt eines vierköpfigen Teams. **Keine echte Eröffnung, Buchbarkeit oder Standortzusage.**
 
 PADEL RUSH ist die Idee für einen modernen Padel- und Freizeitclub in Berlin: Courts, Training, Turniere, offene Matches, Firmenevents und eine kleine Lounge. Das GitHub-Repository ist die **zentrale Arbeitsablage** für Konzept, Quellen, Standort, Finanzplanung, Marketing, Website-Demo und Präsentation.
 
@@ -10,6 +10,9 @@ PADEL RUSH ist die Idee für einen modernen Padel- und Freizeitclub in Berlin: C
 | --- | --- |
 | Projektbrief, Entscheidungen, offene Fragen | [Projektbrief](docs/01-projektbrief.md) |
 | Wunschstandort Betriebshof Niederschönhausen | [Standortanalyse](docs/02-standort.md) |
+| **Standortrecherche vom 10.11.2026 mit Primärquellen** | [BVG-Prüfung + alternative Hallen](research/2026-11-10-standortpruefung-niederschoenhausen.md) |
+| Vorlagen für sachliche Standortanfragen | [BVG/Makler](templates/standort-anfrage.md) |
+| Checkliste zur Standortfreigabe | [Go/No-Go](templates/standort-pruefcheckliste.md) |
 | Geschäftsmodell, Zielgruppen und Angebote | [Geschäftsmodell](docs/03-geschaeftsmodell.md) |
 | Markt, Nachfrage und Konkurrenz | [Marktanalyse](docs/04-markt-und-konkurrenz.md) |
 | Investitions- und Finanzmodell | [Finanzen](docs/05-finanzen.md) |
@@ -24,7 +27,7 @@ PADEL RUSH ist die Idee für einen modernen Padel- und Freizeitclub in Berlin: C
 
 ## Sofort wichtigste offene Punkte
 
-1. **Standort:** BVG-Betriebshof Niederschönhausen — Verfügbarkeit, Eigentums-/Nutzungsrechte, Denkmalschutz, Raumhöhe und Maße nachweisen. **Kein bestätigter Mietvertrag.**
+1. **Standort-Alarm ROT:** Die BVG prüft/plant die Rückkehr der Straßenbahnnutzung; 2026 wurde die Planung eines Gleichrichterwerks veröffentlicht. Für das denkmalgeschützte Depot **keine Sportflächenfreigabe und kein Mietangebot**. Als Alternative ist eine 1.400-m²-Kalthalle in Niederschönhausen mit Inseratskosten dokumentiert; auch deren Sportnutzung ist **nicht geklärt**. Details: [Standortprüfung](research/2026-11-10-standortpruefung-niederschoenhausen.md).
 2. **Court-Konzept:** Die bisherigen vier **Indoor**-Courts stehen im Widerspruch zur Konzeptvisualisierung mit erkennbarem **Outdoor**-Court. Erst Flächenprüfung, dann endgültige Ausstattung.
 3. **Markt:** Aktuelle Berliner Wettbewerber, lokale Nachfrage und realistische Preise mit Primärquellen belegen.
 4. **Finanzen:** Alle bisherigen Beträge sind **Schulbeispiele**, keine Angebote. Standortbezogenes Investitions-, Betriebskosten- und Liquiditätsmodell erstellen.

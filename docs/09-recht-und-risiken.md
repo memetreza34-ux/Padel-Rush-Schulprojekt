@@ -1,6 +1,12 @@
 # 09 — Recht, Machbarkeit und Risiken
 **Interne Checkliste, keine Rechtsberatung.** Für ein Schulprojekt ist keine vorgetäuschte Firmengründung erforderlich.
 
+## Konkreter Standortbefund (10.11.2026)
+
+- Der BVG-Betriebshof Niederschönhausen ist als **Gesamtanlage geschützt** (Denkmal Nr. 09030213) und hat öffentlich belegte **BVG-Reaktivierungsabsichten**. Eine Padel-Nutzung ist **nicht genehmigt, zugesagt oder baulich geprüft**. [Standortbericht](../research/2026-11-10-standortpruefung-niederschoenhausen.md)
+- Das Exposé einer **1.025-m²-Alternativhalle** schließt Sportstätten ausdrücklich aus. **Eigentümergestattung ist ein Go/No-Go-Kriterium**, nicht nur Gebäudehöhe und Mietpreis.
+- Die [Bauaufsicht Pankow](https://www.berlin.de/ba-pankow/politik-und-verwaltung/aemter/stadtentwicklungsamt/bau-und-wohnungsaufsicht/artikel.1664799.php) ist für Fragen der Nutzungsänderung zuständig; bei Denkmalen zudem die [Untere Denkmalschutzbehörde Pankow](https://www.berlin.de/ba-pankow/politik-und-verwaltung/aemter/stadtentwicklungsamt/denkmalschutz/).
+
 ## Standort- und Baurecht
 - Ist das BVG-Gelände überhaupt verfügbar und rechtlich nutzbar?
 - **Nutzungsänderung** einer Verkehrs-/Gewerbeanlage zu Sport- und Freizeitnutzung prüfen.
