@@ -12,8 +12,8 @@
 | Standortvision | Historischer BVG-Betriebshof Niederschönhausen; bekannte Einschränkungen dokumentiert | **Als fiktive Standortvision abgeschlossen** |
 | **Hallenkonzept** | **4 Indoor-Courts, 0 Outdoor zum Start, 16 Spielende gleichzeitig, ca. 1.600 m² Raumprogramm, Outdoor später optional** | **Inhaltlich fertig** |
 | **Markt und Konkurrenz Berlin** | **Q3-Berliner Marktzahlen, 8 Konkurrenzclubs, Preisspannen, Zielgruppenhypothesen, SWOT und Nachfrage-Umfragevorlage** | **Recherche fertig / Befragung offen** |
-| Angebote und Preismodell | **28 €/h Nebenzeit und 40 €/h Hauptzeit** anhand Wettbewerbern plausibilisiert, Preis-Mix-Sensitivität erstellt | **Angebotsdetails/Break-even weiter vertiefen** |
-| Finanzen | Musterrechnung und **Preis-Mix-Sensitivität 28/30/32/34/36 €** dokumentiert, Investitionskosten/GuV noch offen | **Teilweise** |
+| **Angebote und Preise** | **Vollständige Einzelkalkulation für Courts, Starter, Academy, Social, Liga, Turnier, Business, Lounge, Mitgliedschaft**; Court-Zeit und Veranstaltungsbeiträge gerechnet | **ABGESCHLOSSEN als Schulmodell** |
+| Finanzen | **Integriertes Monatsbeispiel ohne Doppelzählung**: 45 % Belegung, 640 normale + 116 Eventstunden, bei 34 €/h normaler Ø ≈ 1.374 € rechnerischer Überschuss; **Investition/GuV/Cashflow offen** | **Teilweise – nächster Schritt** |
 | Werbung / Website | Konzept und Toolliste vorhanden, noch keine fertige Demo | **Offen** |
 | Abschlussfolien / Vortrag | Inhalt und Gestaltung noch zu produzieren | **Offen** |
 
@@ -21,11 +21,18 @@
 
 1. **Grundlagen und Hallenkonzept — ABGESCHLOSSEN:** [Raumprogramm](13-hallenkonzept.md); 4 Indoor, 1.600 m² als fiktive Fläche.
 2. **Markt und Zielgruppe — RECHERCHE ABGESCHLOSSEN:** 8 Berliner Wettbewerber, Q3/2026-Zahlen, Tarifbeispiele, Zielgruppenhypothesen, SWOT und [freiwillige Umfragevorlage](../templates/nachfrage-umfrage.md) erstellt. **Umfrage noch offen**, keine Ergebnisse erfinden.
-3. **Angebote und Preise — ALS NÄCHSTES:** Neben-/Hauptzeit, Rush Starter/Matchmaker, Liga, Training, Firmenevents, Schlägerverleih, Lounge final kalkulieren und Preis-Mix realistisch schätzen.
+3. **Angebote und Preise — ABGESCHLOSSEN ALS SCHULMODELL:** vollständige [14 — Angebotskalkulation](14-angebote-und-preiskalkulation.md), [CSV-Einzelwerte](../research/2026-11-10-angebote-einzelkalkulation.csv) und Wochenbelegungsplan. Preise nur hypothetisch, nicht durch Buchungen validiert.
 4. **Finanzrechnung:** Courts + Umbau + Lounge/Technik/Personal, Startkapital, Finanzierung, Betriebskosten, Break-even, Worst/Base/Best; **kein doppeltes Zählen von Courtstunden**.
 5. **Marketing und Markenmaterial:** Flyer, Posts, Eröffnungskampagne, Logo-Dateien und einheitliches Farbsystem.
 6. **Website als Schul-Demo:** courts/Termine/Preise, simuliertes Buchen ohne echte Zahlung oder Daten.
 7. **Präsentation und Probelauf:** 21 Folien, 4 gleichmäßig vorbereitete Sprecher, Quellenchecks und rechtliche Risiken in 1 kurzer Folie.
+
+## Neuer Kalkulationsstand (10.11.2026)
+
+- [Vollständige Angebots- und Preiskalkulation](14-angebote-und-preiskalkulation.md)
+- **Alle Produkte auf Deckungsbeitrag, direkte Kosten und entgangene Courtmiete geprüft**; 4 Courts ohne Doppelbelegung.
+- Alte pauschale **1.000-€-Zusatzdeckungsbeitragsannahme ersetzt**; nicht zusätzlich zum neuen Eventmodell verwenden.
+- **Nächste Aufgabe: vollständige Finanzplanung**, mit Investitionsbudget, realistischem Kredit-/Tilgungsbeispiel, Personal, Worst/Base/Best, Liquidität und Ergebnis.
 
 ## Neue Recherche-Ergebnisse (10.11.2026)
 
@@ -58,4 +65,4 @@
 - Repository ist **öffentlich**: keine Schüler- oder Kundendaten veröffentlichen.
 
 ## Nächster konkreter Auftrag
-**Preise und einzelne Angebotskosten abschließend planen** (Rush Starter/Matchmaker/League/Business, Court-Zeitverbrauch und Personal). Danach die **Finanz- und Rentabilitätsrechnung** ausarbeiten. Eine echte Nachfrageumfrage ist optional und nicht als durchgeführt zu behaupten.
+**Vollständige Finanz- und Rentabilitätsplanung** auf Grundlage der nun kalkulierten Preise und Eventstunden erstellen: Investitionen, Finanzierung, 12-Monats-Szenarien, Betriebskosten, Personal, Tilgung vs. GuV, Break-even und Liquidität. GitHub-Aufgabe [#3](https://github.com/memetreza34-ux/Padel-Rush-Schulprojekt/issues/3). Eine echte Nachfrageumfrage ist optional und nicht als durchgeführt zu behaupten.
