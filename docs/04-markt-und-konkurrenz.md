@@ -1,7 +1,7 @@
 # 04 — Markt, Nachfrage und Konkurrenz: PADEL RUSH Berlin
 
 > **Stand 10.11.2026 · Forschungsstand für eine fiktive Schulgründung.**  
-> **Vollständige Marktanalyse mit 8 Wettbewerbern und 20+ Quellen:** [Research-Bericht](../research/2026-11-10-markt-konkurrenz-berlin.md)  
+> **Vollständige Marktanalyse mit 8 Wettbewerbern und ausführlichem Quellenregister:** [Research-Bericht](../research/2026-11-10-markt-konkurrenz-berlin.md)  
 > **Maschinenlesbare Vergleichsdaten:** [Wettbewerber-Tabelle (CSV)](../research/2026-11-10-wettbewerber-berlin.csv)  
 > **Fertiger Fragebogen:** [Anonyme Marktumfrage](../templates/nachfrage-umfrage.md)
 
