@@ -107,6 +107,7 @@ Wunschstandort: ehemaliger BVG-Betriebshof Niederschönhausen, **für ein Schulr
 ## 8. Quellen und Arbeitsdateien
 - [Vollständig kalkulierte Angebote mit Rechenweg](14-angebote-und-preiskalkulation.md)
 - [Einzelkalkulation als CSV](../research/2026-11-10-angebote-einzelkalkulation.csv)
+- [Python-Check: Rechenmodell und Konsistenztests](../scripts/validate_financial_model.py)
 - [Hallenmodell](13-hallenkonzept.md)
 - [Berliner Wettbewerb](04-markt-und-konkurrenz.md)
 - [Anbieterpreise PadelBros (Vergleich)](https://padel-bros.de/pages/buchen)
