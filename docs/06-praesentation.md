@@ -7,17 +7,17 @@
 ### Person 1 — Einleitung und Marktchance (ca. 4–5 Min.)
 1. **Titel / Begrüßung / Hook** — PADEL RUSH Berlin, Team, interessanter Einstieg.
 2. **Was ist Padel?** — Regeln, Besonderheiten, kurz visuell demonstrieren.
-3. **Marktentwicklung und Zukunft** — Wachstum nur mit geprüften, datierten Quellen.
-4. **Marktbedarf und Zielgruppen** — Wer spielt? Berlin-Bezug, eigene Umfrage.
+3. **Marktentwicklung und Zukunft** — Padelfinder Q3 2026: Berlin **103 Courts an 19 Standorten**, **+23 Courts** seit Ende Juni; auch mehr Konkurrenz, daher nicht bloß „Boom“ behaupten. [Quelle](https://padelfinder.de/padelreport-q3-2026/).
+4. **Marktbedarf und Zielgruppen** — Kern: Freizeitspieler aus Nordberlin; zweitens Anfänger/Einzelspieler ohne Team; drittens Firmen. Eine [anonyme Umfrage](../templates/nachfrage-umfrage.md) ist **vorbereitet, noch nicht durchgeführt**.
 
 **Überleitung:** „Wir haben die Marktchance gesehen – wie nutzen wir sie konkret in Berlin?“
 
 ### Person 2 — Standort und Leistungsangebot (ca. 5–6 Min.)
 5. **Standortanalyse: Warum Berlin/Niederschönhausen?** — Wunschstandort, Chancen, Einschränkungen.
-6. **Markt- und Konkurrenzanalyse** — konkret verglichene Berliner Clubs.
-7. **Geschäftskonzept und Differenzierung** — Stellung im Markt.
+6. **Markt- und Konkurrenzanalyse** — **8 Clubs verglichen**, als Folienfokus PadelBros (Indoor 32/40 €), 4PADEL (Indoor ab rechnerisch 37 €), Füchse (Outdoor/Abomodell); weitere Berliner Clubs als Reserve. [Belegter Bericht](../research/2026-11-10-markt-konkurrenz-berlin.md).
+7. **Geschäftskonzept und Differenzierung** — **„Vom ersten Match zur eigenen Spielgruppe“**: Rush Starter → Rush Matchmaker → Rush League; **keine behauptete Einzigartigkeit**, da andere Clubs auch Community haben.
 8. **Halle und Ausstattung** — **4 Indoor-Courts, 16 gleichzeitig Spielende, ca. 1.600 m² hypothetische Gesamtfläche**; Empfang, Lounge, Sanitär, Technik und Wege. [Hallenkonzept](13-hallenkonzept.md). Außen-Court im Mockup ist nur spätere Vision.
-9. **Dienstleistungen und Preise** — Courts, Rush Social, League, Academy, Business, Verleih und Lounge.
+9. **Dienstleistungen und Preise** — 28 € Nebenzeit / 40 € Hauptzeit **pro Courtstunde, als Modellpreise**; Rush Social/League/Academy/Business, Verleih und Lounge. 36 € Ø nur bei 2/3 Prime-Stunden.
 
 **Überleitung:** „Das Angebot steht – wie kommen Kunden zu uns und wie organisieren wir den Betrieb?“
 
@@ -35,7 +35,7 @@
 16. **Finanzierung** — Eigenmittel, Kredite, Konditionen und Finanzierungsrisiken.
 17. **Umsatzplanung** — Kapazität × Auslastung × Preis + echte zusätzliche Beiträge.
 18. **Monatliche Kosten und Ergebnis** — Auszahlungen vs. Gewinn unterscheiden.
-19. **Break-even / Szenarien / Liquidität** — schwach, Basis, stark und Reserve.
+19. **Break-even / Szenarien / Liquidität** — Auslastungs- und **Preis-Sensitivität**: bei 36 €/h Ø ca. 38,4 % Liquiditäts-Break-even, bei 34 €/h ca. 40,6 %, bei 32 €/h ca. 43,2 % (alle Werte nur Schulannahmen).
 20. **Chancen, Risiken, Lösungen** — realistische SWOT, Standortrisiko besonders deutlich.
 21. **Zukunft und Fazit** — konkrete Ausbauoptionen und klarer Abschluss.
 
@@ -44,6 +44,15 @@
 **Titel:** „Vier Courts. Eine Community. Ein Treffpunkt.“
 
 **Drei Kennzahlen:** 4 Indoor-Courts / 16 mögliche gleichzeitige Spieler / ca. 1.600 m² angenommene Innenfläche. Davon sind 800 m² offiziell dimensionierte Court-Spielflächen; die übrigen 800 m² sind modellierte Neben- und Verkehrsflächen. Das historische BVG-Gebäude ist nicht vermessen, der Außenplatz auf der Konzeptillustration eine mögliche Zukunftserweiterung.
+
+## Marktanalyse: fertiger Folien-Input (10.11.2026)
+
+- **Folie 3:** Kennzahlen in einer kleinen Grafik; Quellenstichtag 30.09.2026.
+- **Folie 4:** Drei Zielgruppen + ehrliche Aussage „Wir testen den Bedarf; bisher keine echte Umfrage durchgeführt“.
+- **Folie 6:** Konkurrenzmatrix PadelBros, 4PADEL, Füchse plus Marktüberblick aus [8-Clubs-Recherche](../research/2026-11-10-markt-konkurrenz-berlin.md). Unterschied Indoor/Outdoor hervorheben.
+- **Folie 7:** Servicekette Starter → Matchmaker → League; nicht mit „sonst keiner macht das“ argumentieren.
+- **Folie 9:** 28/40 € als geplante Bruttopreise; Anbieterbeispiele belegen Plausibilität.
+- **Folie 19:** Preis-Mix-Risiko mit 32/34/36 € bei sonst identischen Annahmen zeigen.
 
 ## Präsentationsanker
 - **Einstieg:** Menschen wollen unkompliziert mit Freunden Sport treiben; Padel als zugängliches Freizeitangebot.
