@@ -16,7 +16,7 @@
 5. **Standortanalyse: Warum Berlin/Niederschönhausen?** — Wunschstandort, Chancen, Einschränkungen.
 6. **Markt- und Konkurrenzanalyse** — konkret verglichene Berliner Clubs.
 7. **Geschäftskonzept und Differenzierung** — Stellung im Markt.
-8. **Halle und Ausstattung** — realistische Courts, Lounge, Empfang, Sanitär; Visualisierung als Konzept kennzeichnen.
+8. **Halle und Ausstattung** — **4 Indoor-Courts, 16 gleichzeitig Spielende, ca. 1.600 m² hypothetische Gesamtfläche**; Empfang, Lounge, Sanitär, Technik und Wege. [Hallenkonzept](13-hallenkonzept.md). Außen-Court im Mockup ist nur spätere Vision.
 9. **Dienstleistungen und Preise** — Courts, Rush Social, League, Academy, Business, Verleih und Lounge.
 
 **Überleitung:** „Das Angebot steht – wie kommen Kunden zu uns und wie organisieren wir den Betrieb?“
@@ -38,6 +38,12 @@
 19. **Break-even / Szenarien / Liquidität** — schwach, Basis, stark und Reserve.
 20. **Chancen, Risiken, Lösungen** — realistische SWOT, Standortrisiko besonders deutlich.
 21. **Zukunft und Fazit** — konkrete Ausbauoptionen und klarer Abschluss.
+
+## Fertiger Inhalt für Folie 8 (Stand 10.11.2026)
+
+**Titel:** „Vier Courts. Eine Community. Ein Treffpunkt.“
+
+**Drei Kennzahlen:** 4 Indoor-Courts / 16 mögliche gleichzeitige Spieler / ca. 1.600 m² angenommene Innenfläche. Davon sind 800 m² offiziell dimensionierte Court-Spielflächen; die übrigen 800 m² sind modellierte Neben- und Verkehrsflächen. Das historische BVG-Gebäude ist nicht vermessen, der Außenplatz auf der Konzeptillustration eine mögliche Zukunftserweiterung.
 
 ## Präsentationsanker
 - **Einstieg:** Menschen wollen unkompliziert mit Freunden Sport treiben; Padel als zugängliches Freizeitangebot.
