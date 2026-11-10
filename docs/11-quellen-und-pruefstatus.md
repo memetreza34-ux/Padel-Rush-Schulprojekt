@@ -18,8 +18,9 @@
 | Denkmalschutz | **NACHGEWIESEN, Gesamtanlage** | [Denkmalobjekt 09030213](https://denkmaldatenbank.berlin.de/daobj.php?obj_dok_nr=09030213) |
 | Potenzialflächen: 0,0 ha im Standortgebiet | **NACHGEWIESEN FÜR STICHTAG 16.01.2024**, nicht aktuelle Mietmarktverfügbarkeit | [Standortpass PDF](https://www.pankow-wirtschaft.de/fileadmin/user_upload/Publikationen/9_Standortpass_Betriebshof_Niederschoenhausen.pdf) |
 | 2.291 Courts, 655 Standorte (Sep 2026) | UNGEPRÜFTE EXTERNE ANGABE | Original-Padelfinder-Erhebung |
-| Vier Indoor-Courts | PLANANNAHME | Anlagenkonzept und Gebäudemaße |
+| 4 Indoor-Courts, 0 Outdoor beim Start | **FESTE ENTSCHEIDUNG IM SCHULMODELL** | [Hallenkonzept](13-hallenkonzept.md) |
 | Courts 20 × 10 m; mind. 6 m freie Höhe, 8 m empfohlen | **NACHGEWIESEN (FIP-Regeln 2026)** | [FIP PDF](https://www.padelfip.com/wp-content/uploads/2025/12/FIP_Rules-of-Padel-1.pdf) |
+| Ca. 1.600 m² Gesamtfläche, 800 m² Spielfläche | **GESAMTFLÄCHE EIGENE SCHULMODELL-ANNAHME; Spielfläche mathematisch aus FIP** | [Raumprogramm](13-hallenkonzept.md) |
 | 320.000 € Investitionsrahmen | PLANANNAHME | Händler-/Bauangebote |
 | 20.500 € monatliche Auszahlungen | PLANANNAHME | Mietvertrag, Rechnungen, Angebote |
 | 36 € brutto mittlerer Courtpreis | PLANANNAHME | Berliner Tarifvergleich |
