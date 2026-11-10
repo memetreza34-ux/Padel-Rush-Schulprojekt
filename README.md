@@ -22,8 +22,12 @@ PADEL RUSH ist die Idee für einen modernen Padel- und Freizeitclub in Berlin: C
 | Vollständiger Quellen-/Konkurrenzbericht vom 10.11.2026 | [Research](research/2026-11-10-markt-konkurrenz-berlin.md) |
 | Tabelle mit 8 Berliner Padelclubs (CSV) | [Wettbewerberdaten](research/2026-11-10-wettbewerber-berlin.csv) |
 | Freiwillige Nachfrage-Umfrage (noch nicht durchgeführt) | [Fragebogen](templates/nachfrage-umfrage.md) |
-| Investitions- und Finanzmodell | [Finanzen](docs/05-finanzen.md) |
-| Finale Gliederung mit 21 Folien | [Präsentation](docs/06-praesentation.md) |
+| **Neuer Finanzplan: 340.000 € inkl. 50.000 € Reserve, Jahresanlauf** | **[Finanzplanung](docs/05-finanzen.md)** |
+| Vollständige Finanzanlage, Szenarien und Break-even | [Rechenteil](docs/15-finanzanlage-fuer-praesentation.md) |
+| **Vollständiges Vortragsskript 21 Folien (1:1 sprechen)** | **[Gesamtes Manuskript](presentation/PADEL-RUSH-PRAESENTATION-INHALT-KOMPLETT.md)** |
+| **Vier einzelne Sprecher-Skripte und Folienübersicht** | [Vortragsordner](presentation/00-gesamtuebersicht.md) |
+| **Quellen je Folie, Lehrerfragen, Medien und Faktencheck** | [Quellenregister](presentation/05-quellen-und-folienmaterial.md) · [Fragen](presentation/06-fragen-und-qualitaetssicherung.md) |
+| Gliederung mit 21 Folien | [Präsentationsplanung](docs/06-praesentation.md) |
 | Marke, Marketing und Kundenbindung | [Marketing](docs/07-marketing.md) |
 | Vier Gründer, Zuständigkeiten und Werkzeuge | [Team und Tools](docs/08-team-und-tools.md) |
 | Rechtliche Anforderungen und Risiken | [Recht und Risiken](docs/09-recht-und-risiken.md) |
@@ -41,8 +45,12 @@ Die Gründung und die Umnutzung des Betriebshofs sind **hypothetisch**. Wir erst
 1. **Standort-Alarm ROT:** Die BVG prüft/plant die Rückkehr der Straßenbahnnutzung; 2026 wurde die Planung eines Gleichrichterwerks veröffentlicht. Für das denkmalgeschützte Depot **keine Sportflächenfreigabe und kein Mietangebot**. Als Alternative ist eine 1.400-m²-Kalthalle in Niederschönhausen mit Inseratskosten dokumentiert; auch deren Sportnutzung ist **nicht geklärt**. Details: [Standortprüfung](research/2026-11-10-standortpruefung-niederschoenhausen.md).
 2. **Hallenkonzept für die Schulplanung festgelegt:** **4 Indoor-Courts, 0 Outdoor zum Start, ca. 1.600 m² angenommene Gesamtfläche**. Outdoor auf der Visualisierung = mögliche spätere Erweiterung. [Detailplan](docs/13-hallenkonzept.md).
 3. **Marktanalyse durchgeführt:** **8 reale Vergleichsclubs, Q3/2026-Berlinzahlen, Anbieterpreise und Schulumfragevorlage dokumentiert**. Echte lokale Nachfrage und Zahlungsbereitschaft sind **nicht gemessen**. [Auswertung](docs/04-markt-und-konkurrenz.md).
-4. **Angebots- und Umsatzmodell gerechnet:** Preise, Trainerkosten, Eventkosten, Courtnutzung, Mitgliedschaft und ein Monatsbeispiel ohne Doppelbelegung dokumentiert. **45 % Auslastung und 34 € normaler Ø-Courttarif** ergeben im Schulmodell **ca. 1.374 € vorläufigen Monatsüberschuss nach angenommenen Auszahlungen**. Investitions-, Kredit-, GuV- und Liquiditätsplanung bleiben offen. [Rechenmodell](docs/14-angebote-und-preiskalkulation.md).
+4. **Finanzmodell und Vortragsinhalt ausgearbeitet:** Produktkalkulation, 12-Monats-Anlauf, Kreditanalyse und Szenarien. **340.000 €** fiktiver Kapitalbedarf einschließlich **50.000 € Reserve**; bei 45 % Auslastung ergibt sich eine **ca. +1.374 € vereinfachte Monatsbudgetdeckung**, aber ein **ca. −28.932 €** rechnerisches Startjahresergebnis nach Budget-Auszahlungen. **Das ist kein tatsächlicher Gewinn.** [Finanzanlage](docs/15-finanzanlage-fuer-praesentation.md).
 5. **Branding:** Logo und Visualisierungen liegen im Gespräch vor; Original-Bilddateien sind noch **nicht in diesem Repository**. Vor öffentlicher Nutzung Bildrechte und Namens-/Markenkonflikte prüfen.
+
+## Inhaltliche Fertigstellung der Präsentation
+
+**Alle 21 Folien und sämtliche Sprechertexte sind ausgearbeitet** und als [zusammenhängendes Vortragsmanuskript](presentation/PADEL-RUSH-PRAESENTATION-INHALT-KOMPLETT.md) gespeichert. **Noch nicht erstellt:** PowerPoint-Datei, endgültige Bildintegration, tatsächliche 20–25-Minuten-Sprechprobe. Nach nächster Rückmeldung folgt die PowerPoint-Gestaltung im vorhandenen PR-BERLIN-Branding.
 
 ## Arbeitsregeln
 

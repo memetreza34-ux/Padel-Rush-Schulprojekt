@@ -25,14 +25,18 @@
 | 4 Indoor-Courts, 0 Outdoor beim Start | **FESTE ENTSCHEIDUNG IM SCHULMODELL** | [Hallenkonzept](13-hallenkonzept.md) |
 | Courts 20 × 10 m; mind. 6 m freie Höhe, 8 m empfohlen | **NACHGEWIESEN (FIP-Regeln 2026)** | [FIP PDF](https://www.padelfip.com/wp-content/uploads/2025/12/FIP_Rules-of-Padel-1.pdf) |
 | Ca. 1.600 m² Gesamtfläche, 800 m² Spielfläche | **GESAMTFLÄCHE EIGENE SCHULMODELL-ANNAHME; Spielfläche mathematisch aus FIP** | [Raumprogramm](13-hallenkonzept.md) |
-| 320.000 € Investitionsrahmen | PLANANNAHME; kein BVG-Umbauangebot | [Finanzplan](05-finanzen.md) |
-| 20.500 € monatliche Auszahlungen | PLANANNAHME, inklusive möglicher Tilgung | [Finanzplan](05-finanzen.md) |
+| 340.000 € Investitionsrahmen (vorher 320.000 €) | **SCHULMODELL, nun 50.000 € statt 30.000 € Liquiditätsreserve; kein Bauangebot** | [Finanzanlage](15-finanzanlage-fuer-praesentation.md) |
+| 20.500 € budgetierte monatliche Auszahlungen | **PLANANNAHME, inkl. konservativer 3.500 € Finanzierungsauszahlung** | [Finanzanlage](15-finanzanlage-fuer-praesentation.md) |
+| 240.000 € Modellkredit bei 7 %/8 Jahren → Annuität 3.272,09 €/Monat | **EIGENE RECHNUNG, keine Bankzusage** | [Prüfskript](../scripts/validate_presentation_finances.py) |
 | Normale Courtstunden: 28 €/h Nebenzeit, 40 €/h Hauptzeit | **FIKTIVE PREISENTSCHEIDUNG**, Betreiber-Vergleich vorhanden | [Angebotskalkulation](14-angebote-und-preiskalkulation.md) |
 | 34 € Ø reguläre Courtstunde bei 50/50-Tarifmix | **PLANANNAHME** (nicht aus tatsächlichen Buchungen abgeleitet) | [Integrierte Finanzrechnung](05-finanzen.md) |
 | Trainerkosten 45 €/90 Min. Starter / 35 €/60 Min. Zweiertraining | **EIGENE MODELLANNAHMEN**, kein Trainerangebot | [Angebotskalkulation](14-angebote-und-preiskalkulation.md) |
 | Group-Padeltraining Berlin 90 Min. 37,50 €/Person bei 4 Spielern | **ANBIETER-PREIS, nicht unser Honorar** | [Padel Training Berlin](https://padel-training-berlin.com/) |
 | 45 % Gesamtauslastung mit 640 normalen und 116 Event-Courtstunden | **MODELLANNAHME**, ohne echte Teilnehmer-/Nachfragedaten | [Monatsrechnung](05-finanzen.md) |
-| Überschuss im integrierten Modell +1.374,21 € | **KALKULATORISCHE MODELLRECHNUNG, kein Gewinn oder echter Cashflow** | [Finanzplan](05-finanzen.md) |
+| Überschuss im integrierten Modell +1.374,21 € | **KALKULATORISCHE MONATLICHE MODELLBUDGETDECKUNG, kein Gewinn** | [Finanzplan](05-finanzen.md) |
+| Ca. 42 % Auslastungs-Budgetdeckung nur mit definiertem vollen Eventmix | **MODELLRECHNUNG, kein Marktwert** | [Finanzanlage](15-finanzanlage-fuer-praesentation.md) |
+| Startjahr hypothetisch −28.932 € nach Budgetauszahlungen | **12-MONATS-MODELL, keine echte Unternehmensprognose** | [Anlauf-CSV](../research/2026-11-10-finanz-anlaufphase.csv) |
+| Vollständiger Manuskript- und Quellenstand (21 Folien) | **EIGENE PROJEKTDOKUMENTATION** | [Gesamtskript](../presentation/PADEL-RUSH-PRAESENTATION-INHALT-KOMPLETT.md), [Quellenregister](../presentation/05-quellen-und-folienmaterial.md) |
 | Nachfrage / Preisbereitschaft echter Nordberliner Kunden | **NICHT ERHOBEN** | [Vorbereiteter Umfragebogen](../templates/nachfrage-umfrage.md) |
 | 1.400-m²-Kalthalle in Niederschönhausen: 5.880 € Miete + 700 € NK | **AKTUELL INSERIERT, weder Nutzung noch Verfügbarkeit bestätigt** | [Exposé 166021031](https://www.immobilienscout24.de/expose/166021031), abgerufen 10.11.2026 |
 | 1.025-m²-Objekt schließt Sportnutzung aus | **DURCH INSERAT BELEGT** | [Exposé 167737055](https://www.immobilienscout24.de/expose/167737055) |

@@ -23,13 +23,17 @@
 | Lounge, Training, Turniere, Events | KONZEPT | Noch keine Verträge oder Anbieter |
 | Courtpreise 28 €/h Nebenzeit, 40 €/h Hauptzeit | PLANPREISE | Nicht durch Kundenvalidierung bestätigt |
 | Durchschnitt 36 €/h brutto | FINANZANNAHME | Keine erzielte Preisrealisierung |
-| Investitionsbudget 320.000 € | FINANZANNAHME | Nicht gebäudespezifisch, keine Angebote |
+| Investitionsbudget **340.000 €** inkl. **50.000 € Startreserve** | **AKTUELLE FINANZANNAHME (10.11.2026)** | Vorher 320.000 € mit nur 30.000 € Reserve; wegen Anlaufmodell angepasst. [Finanzanlage](15-finanzanlage-fuer-praesentation.md) |
 | Name/Logo rechtlich frei | OFFEN | Recherche und Rechteklärung nötig |
 | Tatsächlich verfügbare Fläche / Nutzungsänderung | OFFEN | Höchste Priorität |
 
 ## Stand der fiktiven Gründung (10.11.2026)
 
 **Kein echter Gründungs- oder Antragsauftrag.** Der BVG-Betriebshof bleibt Wunsch- und Konzeptstandort für die Präsentation. Das Hallenmodell sieht **vier Indoor-Doppelcourts, keine Outdoor-Courts zum Start und ca. 1.600 m² angenommene Innenfläche** vor. [Vollständiges Raumprogramm](13-hallenkonzept.md).
+
+## Inhaltlich fertige Vortragstexte
+
+Die **21 Folien inklusive wörtlicher Sprechtexte, Übergänge und Quellen** liegen im [Vortragsordner](../presentation/00-gesamtuebersicht.md) und als [Gesamtskript](../presentation/PADEL-RUSH-PRAESENTATION-INHALT-KOMPLETT.md). Die PowerPoint-Gestaltung folgt separat.
 
 ## Konzept-Versprechen an Kunden
 „Einfacher Zugang zu Padel, gute Plätze, unkomplizierte Buchung, passende Mitspieler, regelmäßige Events und eine sportliche Community.“

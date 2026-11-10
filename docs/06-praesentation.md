@@ -1,5 +1,5 @@
-# 06 — Finale Präsentationsgliederung mit rotem Faden
-**Geplanter Umfang:** 21 Folien · 4 Personen · circa 20–25 Minuten. Schulvorgaben des Lehrers haben Vorrang.
+# 06 — Fertig ausgearbeitete Präsentationsstruktur mit rotem Faden
+**Stand:** 10.11.2026 · 21 Folien · 4 Personen · circa 20–25 Minuten als Ziel. **Alle Folieninhalte und wörtlichen Sprechertexte sind ausgearbeitet:** [Gesamtes Manuskript](../presentation/PADEL-RUSH-PRAESENTATION-INHALT-KOMPLETT.md). [Quellen pro Folie](../presentation/05-quellen-und-folienmaterial.md). Schulvorgaben des Lehrers haben Vorrang.
 
 ## Dramaturgie
 **Warum Padel? → Warum Berlin? → Warum unser Konzept? → Wie gewinnen wir Kunden? → Wie setzen wir es um? → Ist es wirtschaftlich? → Was ist das Risiko und die Zukunft?**
@@ -27,15 +27,15 @@
 12. **Betriebsorganisation / Personal** — Öffnungszeiten, Buchung, Schichten, Technik, Reinigung.
 13. **Gründerteam / rechtliche Voraussetzungen** — vier Aufgabenbereiche, Rechtsform offen, Nutzungsänderung, Denkmalschutz, Versicherungen.
 14. **Umsetzungsplan bis Eröffnung** — klare Meilensteine, Abhängigkeiten.
-15. **Einmalige Investitionen / Startkapital** — nur belegte bzw. markierte Beispielwerte.
+15. **Einmalige Investitionen / Startkapital** — **340.000 € als rein hypothetischer Kapitalbedarf**, einschließlich **50.000 € Reserve**; keine Bauangebote für den BVG-Betriebshof.
 
 **Überleitung:** „Der Aufbau ist geplant – wie finanzieren wir das und ab wann trägt sich das Modell?“
 
 ### Person 4 — Finanzierung, Risiken und Schluss (ca. 6–8 Min.)
-16. **Finanzierung** — Eigenmittel, Kredite, Konditionen und Finanzierungsrisiken.
-17. **Umsatzplanung** — **1.680 mögliche Courtstunden, 756 belegt (45 %), davon 116 Event-Courtstunden und 640 normale Buchungsstunden; 34 € Ø reguläre Courtstunde**. Eventtickets statt doppelter Courtmiete zählen.
+16. **Finanzierung** — **100.000 € fiktives Gründer-Eigenkapital**, **240.000 € Modellkredit**, 7 %/8 Jahre → ca. **3.272 €/Monat**, 3.500 € konservatives Finanzierungsbudget.
+17. **Umsatzplanung** — **1.680 mögliche Courtstunden, 756 belegt (45 %), davon 116 Event-Courtstunden und 640 normale Buchungsstunden; 34 € Ø reguläre Courtstunde**. Ca. **29.975 € brutto**, Eventtickets statt doppelter Courtmiete zählen.
 18. **Monatliche Kosten und Ergebnis** — **ca. 29.975 € brutto / 25.189 € Modell-Nettoerlöse, 3.315 € direkte Kosten, 20.500 € angenommene Fix-/Finanzierungsauszahlungen, ≈ 1.374 € Modellüberschuss**; kein echter Gewinn/realer Cashflow.
-19. **Rentabilität / Szenarien / Liquidität** — **NEUES integriertes Preis-Mix-Modell**: bei 45 % Gesamtauslastung und 32 / 34 / 36 € Ø reguläre Courtstunde ≈ **+324 € / +1.374 € / +2.424 €** nach angenommenen Auszahlungen. Frühere pauschale Break-even-Prozente ohne Eventkosten sind **überholt**. Echter Break-even, GuV und Liquiditätsplan folgen separat.
+19. **Rentabilität / Szenarien / Liquidität** — **ca. 42 % Budgetdeckungs-Schwelle nur unter vollem Basis-Eventmix**. Schwach 25 % = **−9.222 €**, Basis 45 % = **+1.374 €**, Stark 55 % = **+7.540 €** (unterschiedliche Event-/Preisannahmen). Anlaufjahr Modell-Defizit **−28.932 €**, daher **50.000 € Reserve**.
 20. **Chancen, Risiken, Lösungen** — realistische SWOT, Standortrisiko besonders deutlich.
 21. **Zukunft und Fazit** — konkrete Ausbauoptionen und klarer Abschluss.
 
@@ -60,6 +60,13 @@
 - **Folie 17:** **756 Courtstunden belegt = 640 regulär + 116 Eventstunden**, nicht Eventstunden doppelt vermieten.
 - **Folie 18:** Direkte Eventkosten **3.315 €**, Fix-/Finanzierungsannahmen **20.500 €**, steuerliche und finanzielle Vereinfachungen kennzeichnen.
 - **Folie 19:** Szenarioüberschüsse aus [aktualisiertem Finanzdokument](05-finanzen.md) statt alter pauschaler Break-even-Grafik verwenden.
+
+## Fertige Dokumente für den nächsten PowerPoint-Schritt
+
+- [Alle 21 Folien: wörtliche Texte für vier Sprecher](../presentation/PADEL-RUSH-PRAESENTATION-INHALT-KOMPLETT.md)
+- [Folie-für-Folie Quellen, Fotos und Bildrechte](../presentation/05-quellen-und-folienmaterial.md)
+- [Lehrerfragen und Qualitätscheck](../presentation/06-fragen-und-qualitaetssicherung.md)
+- [Finanzrechnung, Annuität, Szenarien und 12-Monats-Anlauf](15-finanzanlage-fuer-praesentation.md)
 
 ## Präsentationsanker
 - **Einstieg:** Menschen wollen unkompliziert mit Freunden Sport treiben; Padel als zugängliches Freizeitangebot.
