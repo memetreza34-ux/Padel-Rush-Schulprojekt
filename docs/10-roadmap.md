@@ -11,21 +11,29 @@
 | Präsentationsgliederung | 21 Folien, 4 Sprecher und roter Faden | **Gliederung fertig** |
 | Standortvision | Historischer BVG-Betriebshof Niederschönhausen; bekannte Einschränkungen dokumentiert | **Als fiktive Standortvision abgeschlossen** |
 | **Hallenkonzept** | **4 Indoor-Courts, 0 Outdoor zum Start, 16 Spielende gleichzeitig, ca. 1.600 m² Raumprogramm, Outdoor später optional** | **Inhaltlich fertig** |
-| Markt und Konkurrenz Berlin | Lokalpreise, Zielgruppen, Umfrage und Angebotsvergleich | **Nächster Schritt** |
-| Angebote und Preismodell | Ideen und Beispielpreise vorhanden; Validierung offen | **Vorläufig** |
-| Finanzen | Musterrechnung vorhanden, noch nicht mit neuem Raumprogramm und Marktpreisen abgeglichen | **Vorläufig** |
+| **Markt und Konkurrenz Berlin** | **Q3-Berliner Marktzahlen, 8 Konkurrenzclubs, Preisspannen, Zielgruppenhypothesen, SWOT und Nachfrage-Umfragevorlage** | **Recherche fertig / Befragung offen** |
+| Angebote und Preismodell | **28 €/h Nebenzeit und 40 €/h Hauptzeit** anhand Wettbewerbern plausibilisiert, Preis-Mix-Sensitivität erstellt | **Angebotsdetails/Break-even weiter vertiefen** |
+| Finanzen | Musterrechnung und **Preis-Mix-Sensitivität 28/30/32/34/36 €** dokumentiert, Investitionskosten/GuV noch offen | **Teilweise** |
 | Werbung / Website | Konzept und Toolliste vorhanden, noch keine fertige Demo | **Offen** |
 | Abschlussfolien / Vortrag | Inhalt und Gestaltung noch zu produzieren | **Offen** |
 
 ## Empfohlene Reihenfolge ohne unnötige externe Formalitäten
 
 1. **Grundlagen und Hallenkonzept — ABGESCHLOSSEN:** [Raumprogramm](13-hallenkonzept.md); 4 Indoor, 1.600 m² als fiktive Fläche.
-2. **Markt und Zielgruppe — ALS NÄCHSTES:** 5–8 Berliner Wettbewerber mit Tarifen und Angeboten erfassen, Nachfrage/Stadtgebiet, Schwerpunkt Einzelspieler/Anfänger, differenzierender Nutzen. Recherchen nur aus öffentlichen Quellen; optionale eigene Mitschüler-Umfrage.
-3. **Angebote und Preise:** Neben-/Hauptzeit, Rush Social, Liga, Training, Firmenevents, Schlägerverleih, Lounge; Preise auf Konkurrenz und Kapazität abstimmen.
+2. **Markt und Zielgruppe — RECHERCHE ABGESCHLOSSEN:** 8 Berliner Wettbewerber, Q3/2026-Zahlen, Tarifbeispiele, Zielgruppenhypothesen, SWOT und [freiwillige Umfragevorlage](../templates/nachfrage-umfrage.md) erstellt. **Umfrage noch offen**, keine Ergebnisse erfinden.
+3. **Angebote und Preise — ALS NÄCHSTES:** Neben-/Hauptzeit, Rush Starter/Matchmaker, Liga, Training, Firmenevents, Schlägerverleih, Lounge final kalkulieren und Preis-Mix realistisch schätzen.
 4. **Finanzrechnung:** Courts + Umbau + Lounge/Technik/Personal, Startkapital, Finanzierung, Betriebskosten, Break-even, Worst/Base/Best; **kein doppeltes Zählen von Courtstunden**.
 5. **Marketing und Markenmaterial:** Flyer, Posts, Eröffnungskampagne, Logo-Dateien und einheitliches Farbsystem.
 6. **Website als Schul-Demo:** courts/Termine/Preise, simuliertes Buchen ohne echte Zahlung oder Daten.
 7. **Präsentation und Probelauf:** 21 Folien, 4 gleichmäßig vorbereitete Sprecher, Quellenchecks und rechtliche Risiken in 1 kurzer Folie.
+
+## Neue Recherche-Ergebnisse (10.11.2026)
+
+- [Vollständige Markt- und Konkurrenzanalyse](../research/2026-11-10-markt-konkurrenz-berlin.md)
+- [Wettbewerberliste CSV](../research/2026-11-10-wettbewerber-berlin.csv)
+- [Anonymer Nachfragefragebogen](../templates/nachfrage-umfrage.md)
+- Feststellung: **Markt wächst, doch Community, Turniere und Lounge bieten Wettbewerber ebenfalls.** Nicht als einzigartig darstellen.
+- Feststellung: Bei 28/40 € verlangt **36 € Durchschnitt** zwei Drittel verkaufte Hauptzeitstunden; konservative Alternativen 32/34 € in Finanzen ergänzt.
 
 ## Entscheidungslog (Schulkonzept)
 
@@ -50,4 +58,4 @@
 - Repository ist **öffentlich**: keine Schüler- oder Kundendaten veröffentlichen.
 
 ## Nächster konkreter Auftrag
-**Berliner Markt- und Konkurrenzanalyse für die Padelhalle erstellen** und [docs/04-markt-und-konkurrenz.md](04-markt-und-konkurrenz.md) aktualisieren. GitHub-Aufgabe [#2](https://github.com/memetreza34-ux/Padel-Rush-Schulprojekt/issues/2).
+**Preise und einzelne Angebotskosten abschließend planen** (Rush Starter/Matchmaker/League/Business, Court-Zeitverbrauch und Personal). Danach die **Finanz- und Rentabilitätsrechnung** ausarbeiten. Eine echte Nachfrageumfrage ist optional und nicht als durchgeführt zu behaupten.
