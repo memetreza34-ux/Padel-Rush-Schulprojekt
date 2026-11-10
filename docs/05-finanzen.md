@@ -1,104 +1,115 @@
-# 05 — Finanzmodell und Annahmen
-**Wichtig:** Alle Beträge sind **Schul-/Szenarioannahmen**, keine erfragten Angebote oder verifizierten Standortkosten. Grundmodell 09.11.2026, Standort-Nachtrag 10.11.2026.
+# 05 — Finanzplanung (Stand 10.11.2026)
 
-## Investitionsplan (einmalig, exemplarisch)
-| Posten | Annahme |
+> **Fiktiver Schul-Businessplan, kein genehmigtes oder tatsächlich finanziertes Unternehmen.**  
+> **Maßgebliches Produkt- und Courtzeitmodell:** [14 — Angebote, Preise, Deckungsbeiträge](14-angebote-und-preiskalkulation.md).  
+> Frühere vereinfachte Ergebnisse mit pauschal „+1.000 € Zusatzdeckungsbeitrag“ sind **überholt** und dürfen **nicht zusätzlich zu den Events** gerechnet werden.
+
+## 1. Hallen- und Basisparameter
+
+| Parameter | Schulannahme |
 |---|---:|
-| 4 Padel-Courts | 160.000 € |
-| Hallenumbau, Sanitär und Sicherheit | 70.000 € |
-| Lounge, Empfang und Einrichtung | 20.000 € |
-| Planung und Genehmigungen | 15.000 € |
-| Ausstattung und Technik | 15.000 € |
+| Indoor-Doppelcourts | 4 |
+| Geplante Innenfläche | ca. 1.600 m², **nicht vermessen** |
+| Tägliche Öffnungsdauer | 14 Stunden (08–22 Uhr) |
+| Referenzmonat | 30 Öffnungstage, vier organisierte Eventwochen |
+| Gesamte buchbare Courtstunden | **4 × 14 × 30 = 1.680** |
+| Beispielauslastung | **45 % gesamt** = **756** belegte Courtstunden |
+| Davon reguläre Courtstunden | **640** |
+| Davon Events/Trainings/Liga | **116** |
+| Nebenzeit / Hauptzeit | 28 € / 40 € brutto pro Courtstunde |
+| Durchschnitt regulärer Buchungen in integrierter Beispielrechnung | **34 € brutto** (=50 % zum 28-€-Tarif, 50 % zum 40-€-Tarif) |
+| Modell-USt auf Verkäufe | vereinfacht **19 %**; tatsächliche Einordnung je Leistung gesondert |
+| Zahlungskosten, Verschleiß | hypothetisch 2 % Bruttoumsatz + 0,50 €/belegter Courtstunde |
+
+**Wichtig:** Events und reguläre Courtbuchungen dürfen nie dieselbe Courtzeit zugleich als zwei Umsätze buchen. Die Eventveranstaltung hat eigene Einnahmen pro Person/Gruppe und verdrängt normale Buchungszeit.
+
+## 2. Modell-Investitionsbedarf (bereits früher festgelegte, noch nicht validierte Zahlen)
+
+| Position | Schätzung |
+|---|---:|
+| Vier Courts | 160.000 € |
+| Hallenumbau/Sanitär/Sicherheit | 70.000 € |
+| Lounge/Empfang | 20.000 € |
+| Planung/abstrakte Genehmigungskosten | 15.000 € |
+| Ausstattung/Technik | 15.000 € |
 | Eröffnungsmarketing | 10.000 € |
 | Liquiditätsreserve | 30.000 € |
-| **Summe** | **320.000 €** |
+| **SUMME** | **320.000 €** |
 
-**Nicht standortgeprüft:** Denkmalschutzsanierung, Tragfähigkeit, Haustechnik, Schallschutz, Deckenerhöhung, Finanzierungskosten, weitere Ausstattung, Mietkaution, Erschließung, Steuern und mögliche Preissteigerungen. Das 320.000-€-Budget kann für den BVG-Standort deutlich zu niedrig sein.
+**Finanzierungsskizze, nicht zugesagt:** 4 Gründer × 20.000 € Eigenkapital = **80.000 €**; externer Kredit als Rechenannahme **240.000 €**. Zinsen, Tilgung, Gebühren, Sicherheiten, Kreditlaufzeit, Abschreibungen, Steuern und Umsatzsteuer-Vorfinanzierung sind **noch nicht ausgerechnet**. Diese Tabelle ist ausdrücklich **kein objektbezogenes BVG-Umbauangebot**.
 
-## Finanzierungsskizze
-| Quelle | Modellbetrag |
+## 3. Fixe Monatliche Auszahlungsschätzung (vorläufig)
+
+| Position | Schulannahme |
 |---|---:|
-| Eigenkapital: 4 × 20.000 € | 80.000 € |
-| Externes Darlehen | 240.000 € |
-| **Summe** | **320.000 €** |
-Die Finanzierung ist **nicht zugesagt**. Zinssatz, Laufzeit, Sicherheiten, Tilgungsplan, Förderfähigkeit und Liquiditätsbedarf fehlen.
-
-## Monatlicher Auszahlungsplan (Beispiel)
-| Position | Annahme |
-|---|---:|
-| Miete | 8.500 € |
-| Personal | 4.500 € |
-| Energie und Wasser | 2.000 € |
-| Reinigung, Versicherung, Wartung | 1.200 € |
+| Hallenmiete | 8.500 € |
+| Allgemeines Personal | 4.500 € |
+| Grundenergie, Heizung, Wasser | 2.000 € |
+| Allgemeine Reinigung, Versicherung, Grundwartung | 1.200 € |
 | Werbung und Software | 800 € |
-| Kapitaldienst (Zins + Tilgung, Beispiel) | 3.500 € |
-| **Monatliche Auszahlungen** | **20.500 €** |
+| **Kapitaldienst inklusive möglicher Tilgung** | **3.500 €** |
+| **Summe monatlicher Auszahlungen** | **20.500 €** |
 
-**Wichtig:** Der Kapitaldienst beinhaltet unter Umständen **Tilgung**, die keine Betriebsausgabe der GuV ist. Daher wird im Modell ein vereinfachter **Liquiditätsüberschuss**, nicht handelsrechtlicher Gewinn, berechnet. Steuer- und Abschreibungsmodell separat aufbauen.
+**Abgrenzung:** Eventtrainer/-host, kleine Verbrauchsmaterialien, Wareneinsatz und modellierte Buchungsgebühren sind **nicht** im Personal- bzw. Sachkostenblock der Tabelle enthalten und werden als **direkte Produktkosten** extra berücksichtigt. Die separate variable Court-Verschleißreserve (€0,50 je belegter Stunde) ist nicht dieselbe allgemeine Gebäudewartung wie im Fixblock.
 
-## Abgleich mit Hallenkonzept (10.11.2026)
+**Rechtliche/steuerliche Präzision:** Zins ist Finanzierungskostenaufwand, Tilgung ist Auszahlung und keine GuV-Aufwendung. Der nachstehende Betrag ist eine **vereinfachte Modellüberschussrechnung nach Auszahlungen**; **nicht** handelsrechtlicher Gewinn oder ein validierter Cashflow.
 
-Für die Schulgründung gilt nun das Basismodell **4 Indoor-Courts / 0 Outdoor-Courts / ca. 1.600 m² angenommene Innenfläche**. Die genauen Flächen für Empfang, Lounge und Nebenräume sind im [Raumprogramm](13-hallenkonzept.md) berechnet. Die historischen BVG-Gebäudemaße sind damit **nicht bestätigt**.
+## 4. Das neue integrierte 45-%-Beispiel: ohne Doppelbelegung
 
-Die vorhandenen Beträge (320.000 € Startkapital, 8.500 € Beispiel-Miete, 20.500 € Monatssumme) bleiben vorerst **hypothetische Rechenwerte**, keine objektbezogenen Angebote. Das Bild mit Außen-Court stellt nur eine spätere Ausbaustufe dar. Courtstunden bei Training, Social Night, Liga und freier Buchung **nicht doppelt zählen**.
+| Teil | Courtstunden im Modellmonat | Umsatz brutto / Rechengröße |
+|---|---:|---:|
+| Normale Courtbuchungen | **640** | **21.760,00 €** (640 × 34 €) |
+| Starterkurse (8 Termine) | **12** | **928,00 €** |
+| Academy (16 Termine) | **16** | **1.440,00 €** |
+| Social (8 Termine, je 2 Courts) | **24** | **1.152,00 €** |
+| League (4 von 7 Spielwochen, anteilige Einnahmen) | **24** | **1.179,43 €** |
+| Business (4 Termine) | **24** | **2.396,00 €** |
+| Tournament (ein Event) | **16** | **1.120,00 €** |
+| **GESAMT** | **756 belegte von 1.680** | **29.975,43 € Bruttoumsatz-Rechengröße** |
 
-## Markt- und Preisrealität (10.11.2026)
+**Eventstunden zusammen = 116.**  
+**League-Hinweis:** 16 Spieler zahlen insgesamt 2.064 € brutto für eine gesamte **7-Wochen-Saison**. Für die Modellperiode werden **4/7 des Saisonpreises und der direkten Saisonkosten zugeordnet**. Der tatsächliche Geldzufluss könnte bereits zu Saisonbeginn stattfinden – deshalb ist die Zurechnung **kein echter Kassen-/Cashflow-Plan**.
 
-Der Preis von **28 €/Courtstunde Nebenzeit** bzw. **40 €/Courtstunde Hauptzeit** ist ein **Schulangebot**. Die [Berliner Wettbewerbsanalyse](04-markt-und-konkurrenz.md) zeigt echte Vergleichstarife, insbesondere Indoor-Club PadelBros mit 32 €/h Nebenzeit und 40 €/h Hauptzeit.
+| Stufe | Rechenbetrag |
+|---|---:|
+| Gesamtmodellumsatz **netto** (vereinfachte USt) | **25.189,44 €** |
+| Direkte Kosten für Courts, Coaches, Betreuung, Bälle, Preise, Zahlung | **−3.315,22 €** |
+| **Deckungsbeitrag vor Fixauszahlungen** | **21.874,21 €** |
+| Monatliche Fix-/Finanzierungsauszahlungen (Annahme) | **−20.500,00 €** |
+| **Vereinfachter Modellüberschuss** | **+1.374,21 €** |
 
-Der bisher verwendete gewichtete Durchschnitt von **36 €/h brutto** folgt **nicht automatisch aus den zwei Tarifen**: Dafür müssen **66,7 %** der verkauften Stunden Hauptzeitstunden sein. Bei 50 % Hauptzeit sind es **34 €/h**, bei einem Drittel **32 €/h**.
+**Noch nicht enthalten:** Erlöse aus Getränken, Snacks, Schlägerverleih, Mitgliedschaften oder Sponsoren. **Kein** extra pauschaler 1.000-€-Bonus mehr. Nicht enthalten sind weitere eventuelle Gründervergütungen, Steuerzahlungen, besondere saisonale Heizungskosten, Anlaufverluste und tatsächliche Kreditkonditionen.
 
-Mit den **bestehenden, rein modellhaften** Auszahlungen von 20.500 €/Monat, zusätzlichem Deckungsbeitrag 1.000 €/Monat und rechnerischen 19 % USt ergibt sich die **vereinfachte Liquiditäts-Break-even-Auslastung**:
+## 5. Sensitivität bei sonst gleichen, unbewiesenen Annahmen
 
-| Durchschnittspreis brutto je Courtstunde | Break-even-Auslastung, ca. |
-|---:|---:|
-| 28 € | 49,3 % |
-| 30 € | 46,0 % |
-| 32 € | 43,2 % |
-| 34 € | 40,6 % |
-| 36 € | 38,4 % |
+| Durchschnitt **nur regulärer** Courtbuchungen | Modellüberschuss nach angenommenen Auszahlungen |
+|---|---:|
+| 32 €/h brutto | **+324,18 €** |
+| **34 €/h brutto — Basis** | **+1.374,21 €** |
+| 36 €/h brutto | **+2.424,24 €** |
 
-Diese Tabelle ist **kein verifizierter Gewinnplan** und belegt keine tatsächlich erreichbare Auslastung. **Kapitaldienst ist im Modell als Auszahlung enthalten, auch Tilgung**; betriebswirtschaftliche GuV getrennt betrachten. Bei Kursen und Turnieren die belegten Courtstunden **nicht doppelt** verkaufen.
+Alle Szenarien nehmen **45 % Gesamtbelegung und volle Eventteilnehmerzahlen** an. Niedrigere Eventteilnehmerzahlen, abgesagte Events, ungünstige Spitzenzeiten und nicht erfasste Kosten können die Beträge erheblich verschlechtern. 36 € durchschnittlich bei 28/40 € wäre ein **66,7-%-Hauptzeitmix** (nur reguläre Stunden); 34 € entspricht **50/50**; 32 € entspricht **33,3 % Hauptzeit**.
 
-## Rechenweg Courts
-- 4 Courts × 14 Öffnungsstunden/Tag × 30 Tage = **1.680 mögliche Courtstunden/Monat**.
-- Durchschnittlicher **Bruttopreis 36 €/Courtstunde**.
-- Für die reine Unterrichtsrechnung **19 % USt** auf Courtpreis unterstellt; tatsächliche steuerliche Behandlung prüfen.
-- **Netto-Courtumsatz = 1.680 × Auslastung × 36 € / 1,19**.
-- Zusätzlich angenommener **Deckungsbeitrag 1.000 €/Monat** aus Events, Training, Verleih und Lounge (nicht mit Bruttoumsatz verwechseln).
-- **Vereinfachter Liquiditätsüberschuss = Netto-Courtumsatz + 1.000 € − 20.500 €**.
-- Court- und Eventnutzung **dürfen nicht doppelt gezählt werden**.
+## 6. Was noch für den wirklich vollständigen Finanzplan fehlt
 
-## Sensitivität / drei Szenarien
-| Auslastung | Courtstunden | Courtumsatz netto, ca. | Liquider Überschuss/Fehlbetrag, ca. |
-|---|---:|---:|---:|
-| 25 % (schwach) | 420 | 12.706 € | **−6.794 €** |
-| 35 % (vorsichtig) | 588 | 17.788 € | **−1.712 €** |
-| 45 % (Basis) | 756 | 22.871 € | **+3.371 €** |
-| 55 % (stark) | 924 | 27.953 € | **+8.453 €** |
+1. **Einmalige Bau-/Einrichtungskosten plausibilisieren** und Reserve & Kaution getrennt abbilden; historisches Gebäude verursacht potenziell höhere Kosten.
+2. **Kreditmodell** mit Zinsen, Tilgung, Laufzeit und Kapitaldienst ausrechnen, keine willkürliche 3.500-€-Rate.
+3. **Lohn- und Personalmodell** inklusive Schichten, Trainer/Hosts und vier Gründervergütungen prüfen.
+4. **Anlaufmonat und saisonale Szenarien**: Nachfrage und Strom-/Heizkosten schwanken, ganzjährige 45-%-Auslastung ist nicht bewiesen.
+5. **GuV und Cashflow getrennt**: Abschreibungen, Steuern, Zahlungsflüsse, Vorfinanzierungen, USt und Vereins-/Mitgliedschaftsbeiträge berücksichtigen.
+6. **Break-even mit tatsächlichen Event- und Courtkosten**, nicht eine frühere pauschale Schätzung von 38,4 % weiterverwenden.
+7. **Wirtschaftliche Tragfähigkeit** auch bei 25–35 % Gesamtbelegung testen.
 
-**Break-even-Auslastung im vereinfachten Liquiditätsmodell:**
-(20.500 € − 1.000 €) × 1,19 / (1.680 × 36 €) = **ca. 38,4 %**.
+## 7. Standort nur als fiktiver Kontext
 
-## Weitere Pflichtrechnungen (noch offen)
-- **12- bis 36-monatige Liquiditätsplanung** mit saisonalen Schwankungen und Anlaufphase.
-- **Gewinn- und Verlustrechnung** (Zinsen vs. Tilgung, Abschreibung, Steuern, reale variablen Kosten).
-- **Investitionsamortisation**, Tilgungsplan, Sicherheitsreserve, monatliche Kontostände.
-- **Vergleich Indoor/Outdoor** und zwei Standortvarianten.
-- **Trainer-/Eventkalkulation** nach entgangenen normalen Courtstunden.
-- **Empfindlichkeit** für Courtpreis, Fixkosten, Personal und Auslastung.
+Wunschstandort: ehemaliger BVG-Betriebshof Niederschönhausen, **für ein Schulreferat hypothetisch als Umnutzung gedacht**. Keine Vermieter-, BVG- oder Behördenanfragen. Bisherige öffentliche Standorthinweise bleiben nur Teil der Risikoanalyse. Die früheren Inserate alternativer Hallen sind **keine Grundlage** dieser 1.600-m²-Modellrechnung.
 
-## Standort-Nachtrag 10.11.2026 — Mietmarktbeleg, noch keine Padel-Freigabe
+## 8. Quellen und Arbeitsdateien
+- [Vollständig kalkulierte Angebote mit Rechenweg](14-angebote-und-preiskalkulation.md)
+- [Einzelkalkulation als CSV](../research/2026-11-10-angebote-einzelkalkulation.csv)
+- [Hallenmodell](13-hallenkonzept.md)
+- [Berliner Wettbewerb](04-markt-und-konkurrenz.md)
+- [Anbieterpreise PadelBros (Vergleich)](https://padel-bros.de/pages/buchen)
+- [Rico Janotta, Berliner Trainingspreise](https://padel-training-berlin.com/)
 
-Im [Niederschönhausen-Exposé 166021031](https://www.immobilienscout24.de/expose/166021031) ist eine **ungeheizte** Halle mit ca. **1.400 m²** und ca. **18 m Hallenhöhe** inseriert. Miete **5.880 €/Monat**, Nebenkosten **700 €/Monat**, Kaution **17.640 €**, Preise laut Exposé **zuzüglich USt**.
-
-- **Inserats-Monatsbelastung vor Umsatzsteuer:** 5.880 + 700 = **6.580 €**; etwa **7.830,20 € bei rechnerisch 19 % USt**, sofern beide Positionen entsprechend versteuert werden. Die USt ist von der Kostenrechnung bzw. Vorsteuer-/Liquiditätswirkung getrennt zu behandeln.
-- **Kaution:** 17.640 € zusätzlich **gebundene Liquidität**, keine monatliche Betriebsausgabe.
-- **Achtung:** Das Angebot hat **keine bestätigte Sportnutzungs-Erlaubnis**, keine geprüfte Hallengeometrie und **keine Heizung**. Heizungsnachrüstung, Sanitär, Schall, Baugenehmigung und lange Mietdauer können die Kosten massiv ändern.
-- Die alten **8.500 €/Monat Miete** sind eine unabhängige **Schulannahme**. Man darf die neue Anzeigemiete **nicht** ohne weitere Daten als reale Gesamtkosten an deren Stelle setzen.
-- Das BVG-Depot ist wegen öffentlicher Reaktivierungsplanungen **kein gesichertes Mietobjekt**. Der Finanzplan mit 320.000 € Investitionen ist **kein Budget für den Denkmalumbau**.
-
-Siehe [Standortrecherche](../research/2026-11-10-standortpruefung-niederschoenhausen.md).
-
-## Interpretation
-Die Modellrechnung ist erst nach Prüfung von realen Angebotskosten, Mietvertragsdaten, Nachfrage und Kapazitätsmix eine belastbare Prognose. Für die Präsentation alle Beträge als *Beispielannahmen* kennzeichnen.
+**Status 10.11.2026:** Preis- und Umsatzlogik konsistent; **volle Investitions-/GuV-/Cashflow-Planung ist die nächste Aufgabe**. Keine vermeintlich realen Gewinne behaupten.
